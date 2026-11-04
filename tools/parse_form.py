@@ -8,19 +8,24 @@ def main():
     url = sys.argv[1]
     try:
         with sync_playwright() as p:
-            try:
-                browser = p.chromium.launch(headless=True)
-            except Exception:
-                import subprocess
-                subprocess.run(
-                    [sys.executable, "-m", "playwright", "install", "chromium"],
-                    check=True
-                )
-                browser = p.chromium.launch(headless=True)
+            browser = p.chromium.launch(
+                headless=True,
+                args=["--no-sandbox", "--disable-dev-shm-usage"]
+            )
+
             page = browser.new_page()
-            page.goto(url, wait_until="domcontentloaded", timeout=60000)
-            page.wait_for_timeout(1500)
-            final, html = page.url, page.content()
+    
+            page.goto(
+                url,
+                wait_until="domcontentloaded",
+                timeout=60000
+            )
+
+            page.wait_for_timeout(3000)
+
+            final = page.url
+            html = page.content()
+
             browser.close()
         print(json.dumps({"url": final, "html": html}))
     except Exception as e:
