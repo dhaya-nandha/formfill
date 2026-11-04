@@ -1,0 +1,17 @@
+{
+  "full_name": "Arjun Reddy Kolla",
+  "email": "arjun.kolla@example.com",
+  "phone": "9000011111",
+  "college": "Sri Venkateswara Institute of Technology",
+  "degree": "B.Tech Computer Science and Engineering (AI/ML)",
+  "branch": null,
+  "year_of_study": "3rd Year",
+  "graduation_year": "2027",
+  "cgpa": "8.4",
+  "city": "Vijayawada",
+  "state": "Andhra Pradesh",
+  "github": "https://github.com/arjun-kolla-test",
+  "linkedin": "https://www.linkedin.com/in/arjun-kolla-test",
+  "skills": ["Python", "Java", "SQL", "Git", "Machine Learning"],
+  "target_role": "AI Engineer"
+}

@@ -1,0 +1,117 @@
+text,question,qtype,label,label_id,base
+[short_text] Candidate Name,Candidate Name,short_text,full_name,0,Candidate Name
+[short_text] Contact No.,Contact No.,short_text,phone,2,Contact No.
+[short_text] Father's Name,Father's Name,short_text,unsupported,16,Father's Name
+[short_text] Institute,Institute,short_text,college,3,Institute
+[short_text] Current CGPA (out of 10),Current CGPA (out of 10),short_text,cgpa,8,Current CGPA (out of 10)
+[multiple_choice] Role Applied For,Role Applied For,multiple_choice,target_role,14,Role Applied For
+[checkboxes] Technical Skills,Technical Skills,checkboxes,skills,13,Technical Skills
+[short_text] Expected Stipend (per month),Expected Stipend (per month),short_text,unsupported,16,Expected Stipend (per month)
+[dropdown] Preferred Work Mode,Preferred Work Mode,dropdown,unsupported,16,Preferred Work Mode
+[paragraph] Why do you want this internship?,Why do you want this internship?,paragraph,open_text,15,Why do you want this internship?
+[short_text] Full Name,Full Name,short_text,full_name,0,Full Name
+[short_text] Email,Email,short_text,email,1,Email
+[short_text] Phone,Phone,short_text,phone,2,Phone
+[short_text] College,College,short_text,college,3,College
+[multiple_choice] Year of study,Year of study,multiple_choice,year_of_study,6,Year of study
+[checkboxes] Skills you are comfortable with,Skills you are comfortable with,checkboxes,skills,13,Skills you are comfortable with
+[dropdown] Preferred work mode,Preferred work mode,dropdown,unsupported,16,Preferred work mode
+[short_text] Expected stipend per month,Expected stipend per month,short_text,unsupported,16,Expected stipend per month
+[short_text] GitHub profile link,GitHub profile link,short_text,github,11,GitHub profile link
+[short_text] Mail address,Mail address,short_text,email,1,Mail address
+[short_text] Mobile Number,Mobile Number,short_text,phone,2,Mobile Number
+[dropdown] Course pursuing,Course pursuing,dropdown,degree,4,Course pursuing
+[short_text] Aggregate CGPA,Aggregate CGPA,short_text,cgpa,8,Aggregate CGPA
+[multiple_choice] Which role are you applying for?,Which role are you applying for?,multiple_choice,target_role,14,Which role are you applying for?
+[checkboxes] Tools you have used,Tools you have used,checkboxes,skills,13,Tools you have used
+[dropdown] Notice period,Notice period,dropdown,unsupported,16,Notice period
+[checkboxes] Languages known,Languages known,checkboxes,unsupported,16,Languages known
+[paragraph] Describe a project you have worked on.,Describe a project you have worked on.,paragraph,open_text,15,Describe a project you have worked on.
+[short_text] LinkedIn profile,LinkedIn profile,short_text,linkedin,12,LinkedIn profile
+[short_text] Name of the applicant,Name of the applicant,short_text,full_name,0,Name of the applicant
+[dropdown] Passing out year,Passing out year,dropdown,graduation_year,7,Passing out year
+[short_text] 10th percentage,10th percentage,short_text,unsupported,16,10th percentage
+[short_text] Aadhaar number,Aadhaar number,short_text,unsupported,16,Aadhaar number
+[multiple_choice] Are you available for 6 months?,Are you available for 6 months?,multiple_choice,unsupported,16,Are you available for 6 months?
+[multiple_choice] Position,Position,multiple_choice,target_role,14,Position
+[paragraph] Tell us about yourself.,Tell us about yourself.,paragraph,open_text,15,Tell us about yourself.
+[short_text] Your name,Your name,short_text,full_name,0,Your name
+[short_text] Email ID,Email ID,short_text,email,1,Email ID
+[short_text] University / College name,University / College name,short_text,college,3,University / College name
+[dropdown] Which year are you in?,Which year are you in?,dropdown,year_of_study,6,Which year are you in?
+[short_text] Team name,Team name,short_text,unsupported,16,Team name
+[dropdown] Preferred track,Preferred track,dropdown,unsupported,16,Preferred track
+[dropdown] T-shirt size,T-shirt size,dropdown,unsupported,16,T-shirt size
+[checkboxes] Programming languages you know,Programming languages you know,checkboxes,skills,13,Programming languages you know
+[short_text] GitHub URL,GitHub URL,short_text,github,11,GitHub URL
+[paragraph] What problem would you like to solve at the hackathon?,What problem would you like to solve at the hackathon?,paragraph,open_text,15,What problem would you like to solve at the hackathon?
+[short_text] Official email,Official email,short_text,email,1,Official email
+[short_text] Name of your institution,Name of your institution,short_text,college,3,Name of your institution
+[short_text] Program of study,Program of study,short_text,degree,4,Program of study
+[dropdown] Current year,Current year,dropdown,year_of_study,6,Current year
+[dropdown] Research area of interest,Research area of interest,dropdown,unsupported,16,Research area of interest
+[multiple_choice] Do you have any publications?,Do you have any publications?,multiple_choice,unsupported,16,Do you have any publications?
+[short_text] Nationality,Nationality,short_text,unsupported,16,Nationality
+[paragraph] Briefly describe your most relevant project.,Briefly describe your most relevant project.,paragraph,open_text,15,Briefly describe your most relevant project.
+[short_text] LinkedIn URL,LinkedIn URL,short_text,linkedin,12,LinkedIn URL
+[short_text] Current city,Current city,short_text,city,9,Current city
+[short_text] Name,Name,short_text,full_name,0,Name
+[short_text] Phone number,Phone number,short_text,phone,2,Phone number
+[short_text] Location,Location,short_text,city,9,Location
+[dropdown] Preferred domain,Preferred domain,dropdown,target_role,14,Preferred domain
+[short_text] Current salary,Current salary,short_text,unsupported,16,Current salary
+[dropdown] Blood group,Blood group,dropdown,unsupported,16,Blood group
+[multiple_choice] Are you willing to relocate?,Are you willing to relocate?,multiple_choice,unsupported,16,Are you willing to relocate?
+[checkboxes] Skills,Skills,checkboxes,skills,13,Skills
+[paragraph] Why should we pick you?,Why should we pick you?,paragraph,open_text,15,Why should we pick you?
+[short_text] Qualification,Qualification,short_text,degree,4,Qualification
+[short_text] Total years of experience,Total years of experience,short_text,unsupported,16,Total years of experience
+[short_text] Portfolio website,Portfolio website,short_text,unsupported,16,Portfolio website
+[multiple_choice] Preferred work mode,Preferred work mode,multiple_choice,unsupported,16,Preferred work mode
+[paragraph] Write a short cover letter.,Write a short cover letter.,paragraph,open_text,15,Write a short cover letter.
+[short_text] Course pursuing,Course pursuing,short_text,degree,4,Course pursuing
+[dropdown] Batch,Batch,dropdown,graduation_year,7,Batch
+[short_text] 12th percentage,12th percentage,short_text,unsupported,16,12th percentage
+[dropdown] Gender,Gender,dropdown,unsupported,16,Gender
+[short_text] Age,Age,short_text,unsupported,16,Age
+[checkboxes] Technologies you have worked with,Technologies you have worked with,checkboxes,skills,13,Technologies you have worked with
+[paragraph] Why do you want to join this program?,Why do you want to join this program?,paragraph,open_text,15,Why do you want to join this program?
+[multiple_choice] Which year are you in?,Which year are you in?,multiple_choice,year_of_study,6,Which year are you in?
+[short_text] Graduation year,Graduation year,short_text,graduation_year,7,Graduation year
+[multiple_choice] Are you available for 2 months this summer?,Are you available for 2 months this summer?,multiple_choice,unsupported,16,Are you available for 2 months this summer?
+"[paragraph] List your previous internships, if any.","List your previous internships, if any.",paragraph,unsupported,16,"List your previous internships, if any."
+[dropdown] Qualification,Qualification,dropdown,degree,4,Qualification
+[short_text] Passing out year,Passing out year,short_text,graduation_year,7,Passing out year
+[short_text] CGPA,CGPA,short_text,cgpa,8,CGPA
+[short_text] Current CTC,Current CTC,short_text,unsupported,16,Current CTC
+[short_text] Expected CTC,Expected CTC,short_text,unsupported,16,Expected CTC
+[short_text] Resume link,Resume link,short_text,unsupported,16,Resume link
+[paragraph] Cover note,Cover note,paragraph,open_text,15,Cover note
+[checkboxes] Languages you can code in,Languages you can code in,checkboxes,skills,13,Languages you can code in
+[multiple_choice] Role applied for,Role applied for,multiple_choice,target_role,14,Role applied for
+[short_text] Pincode,Pincode,short_text,unsupported,16,Pincode
+[multiple_choice] Do you have your own laptop?,Do you have your own laptop?,multiple_choice,unsupported,16,Do you have your own laptop?
+[checkboxes] Which tools have you used?,Which tools have you used?,checkboxes,skills,13,Which tools have you used?
+[short_text] Expected stipend,Expected stipend,short_text,unsupported,16,Expected stipend
+[short_text] Passport number,Passport number,short_text,unsupported,16,Passport number
+[short_text] Degree,Degree,short_text,degree,4,Degree
+[multiple_choice] Graduation year,Graduation year,multiple_choice,graduation_year,7,Graduation year
+[dropdown] How did you hear about us?,How did you hear about us?,dropdown,unsupported,16,How did you hear about us?
+[short_text] PAN number,PAN number,short_text,unsupported,16,PAN number
+[paragraph] Why do you want this job?,Why do you want this job?,paragraph,open_text,15,Why do you want this job?
+[checkboxes] Skills you will bring to the team,Skills you will bring to the team,checkboxes,skills,13,Skills you will bring to the team
+[short_text] Github profile link,Github profile link,short_text,github,11,Github profile link
+[multiple_choice] Which role suits you best?,Which role suits you best?,multiple_choice,target_role,14,Which role suits you best?
+[dropdown] Team size,Team size,dropdown,unsupported,16,Team size
+[multiple_choice] Do you have a team already?,Do you have a team already?,multiple_choice,unsupported,16,Do you have a team already?
+[multiple_choice] Do you need accommodation?,Do you need accommodation?,multiple_choice,unsupported,16,Do you need accommodation?
+[dropdown] Area of research interest,Area of research interest,dropdown,unsupported,16,Area of research interest
+[paragraph] Briefly describe a project you have worked on.,Briefly describe a project you have worked on.,paragraph,open_text,15,Briefly describe a project you have worked on.
+[short_text] City you live in,City you live in,short_text,city,9,City you live in
+[multiple_choice] Willing to relocate?,Willing to relocate?,multiple_choice,unsupported,16,Willing to relocate?
+[paragraph] Why do you want to join our startup?,Why do you want to join our startup?,paragraph,open_text,15,Why do you want to join our startup?
+[short_text] State,State,short_text,state,10,State
+[checkboxes] Tech stack,Tech stack,checkboxes,skills,13,Tech stack
+[multiple_choice] Role,Role,multiple_choice,target_role,14,Role
+[multiple_choice] Notice period,Notice period,multiple_choice,unsupported,16,Notice period
+"[paragraph] List your certifications, if any.","List your certifications, if any.",paragraph,unsupported,16,"List your certifications, if any."

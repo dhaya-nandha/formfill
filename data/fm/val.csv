@@ -1,0 +1,673 @@
+text,question,qtype,label,label_id,base
+[checkboxes] PLEASE SHARE YOUR GITHUB PROFILE,PLEASE SHARE YOUR GITHUB PROFILE,checkboxes,github,11,Please share your GitHub profile
+[dropdown] Course  doing,Course  doing,dropdown,degree,4,Course doing
+[multiple_choice] 11. Your Choose your preferred role :,11. Your Choose your preferred role :,multiple_choice,target_role,14,Choose your preferred role
+[dropdown] Please  enter your Expected stipend,Please  enter your Expected stipend,dropdown,unsupported,16,Expected stipend
+[short_text] Please enter your CGPA (on a scale of 10)as per records,Please enter your CGPA (on a scale of 10)as per records,short_text,cgpa,8,CGPA (on a scale of 10)
+[short_text] YOUR  PLEASE SHARE YOUR GITHUB PROFILE :,YOUR  PLEASE SHARE YOUR GITHUB PROFILE :,short_text,github,11,Please share your GitHub profile
+[short_text] please enter your city of liivng,please enter your city of liivng,short_text,city,9,City of living
+[short_text] Currently  in which year?,Currently  in which year?,short_text,year_of_study,6,Currently in which year?
+[checkboxes] Team name,Team name,checkboxes,unsupported,16,Team name
+[dropdown] CONTACT NO. OF THE CANDIDATE :,CONTACT NO. OF THE CANDIDATE :,dropdown,phone,2,Contact no. of the candidate
+[short_text] Etner Contact Number,Etner Contact Number,short_text,phone,2,Contact Number
+[short_text] What is your CGPA?,What is your CGPA?,short_text,cgpa,8,What is your CGPA?
+[dropdown] State (Current)*,State (Current)*,dropdown,state,10,State (Current)
+[multiple_choice] Etner your year of study,Etner your year of study,multiple_choice,year_of_study,6,Enter your year of study
+[dropdown] class year *,class year *,dropdown,year_of_study,6,Class year
+[checkboxes] Your Email Id For Registration,Your Email Id For Registration,checkboxes,email,1,Your email ID for registration
+[checkboxes] Contact email *,Contact email *,checkboxes,email,1,Contact email
+[short_text] 7. UPI ID,7. UPI ID,short_text,unsupported,16,UPI ID
+[short_text] City/Town of residence*,City/Town of residence*,short_text,city,9,City/Town of residence
+[multiple_choice] 15. Degree,15. Degree,multiple_choice,degree,4,Degree
+[multiple_choice] Name  of your isntitution,Name  of your isntitution,multiple_choice,college,3,Name of your institution
+[short_text] can you attend the interview offline?,can you attend the interview offline?,short_text,unsupported,16,Can you attend the interview offline?
+[multiple_choice] Please share your GitHub profile,Please share your GitHub profile,multiple_choice,github,11,Please share your GitHub profile
+[checkboxes] State of domicile *,State of domicile *,checkboxes,state,10,State of domicile
+[short_text] YOUR SCHOLARSHIPS RECEIVED,YOUR SCHOLARSHIPS RECEIVED,short_text,unsupported,16,Scholarships received
+[multiple_choice] 7. Enter Select role (required),7. Enter Select role (required),multiple_choice,target_role,14,Select role
+[short_text] Year in which you will graduate,Year in which you will graduate,short_text,graduation_year,7,Year in which you will graduate
+[dropdown] Number of participants,Number of participants,dropdown,unsupported,16,Number of participants
+[checkboxes] Please Enter Your Languages And Frameworks Knwon,Please Enter Your Languages And Frameworks Knwon,checkboxes,skills,13,Languages and frameworks known
+[short_text] Enter your mobile number,Enter your mobile number,short_text,phone,2,Enter your mobile number
+[short_text] Professional skills,Professional skills,short_text,skills,13,Professional skills
+[short_text] Food preference (veg/non-veg),Food preference (veg/non-veg),short_text,unsupported,16,Food preference (veg/non-veg)
+[multiple_choice] Are you willing to relocate?:,Are you willing to relocate?:,multiple_choice,unsupported,16,Are you willing to relocate?
+[multiple_choice] Academic  qualification,Academic  qualification,multiple_choice,degree,4,Academic qualification
+[multiple_choice] Current degree,Current degree,multiple_choice,degree,4,Current degree
+[multiple_choice] affiliated college,affiliated college,multiple_choice,college,3,Affiliated college
+[dropdown] Phone,Phone,dropdown,phone,2,Phone
+[checkboxes] 7. Overall Gpa,7. Overall Gpa,checkboxes,cgpa,8,Overall GPA
+[short_text] What  is your name?,What  is your name?,short_text,full_name,0,What is your name?
+[multiple_choice] 11. Vehicle number,11. Vehicle number,multiple_choice,unsupported,16,Vehicle number
+[dropdown] Birth date,Birth date,dropdown,unsupported,16,Birth date
+[short_text] Current city of residence*,Current city of residence*,short_text,city,9,Current city of residence
+[dropdown] 12. Student Name :,12. Student Name :,dropdown,full_name,0,Student Name
+[short_text] 3. Linked In link as per records,3. Linked In link as per records,short_text,linkedin,12,Linked In link
+[short_text] Enter your Link to your project demo*,Enter your Link to your project demo*,short_text,unsupported,16,Link to your project demo
+[dropdown] 13. Position applied for,13. Position applied for,dropdown,target_role,14,Position applied for
+[multiple_choice] 8.  Please enter your Category (General/OBC/SC/ST),8.  Please enter your Category (General/OBC/SC/ST),multiple_choice,unsupported,16,Category (General/OBC/SC/ST)
+[multiple_choice] Name of University/College as per records,Name of University/College as per records,multiple_choice,college,3,Name of University/College
+[dropdown] contact  email,contact  email,dropdown,email,1,Contact email
+[dropdown] 4. Enter Year in which you will graduate,4. Enter Year in which you will graduate,dropdown,graduation_year,7,Year in which you will graduate
+[checkboxes] Referred by,Referred by,checkboxes,unsupported,16,Referred by
+[multiple_choice] Present state of residence *,Present state of residence *,multiple_choice,state,10,Present state of residence
+[multiple_choice] Please Enter Your Enter Your Mobile Number *,Please Enter Your Enter Your Mobile Number *,multiple_choice,phone,2,Enter your mobile number
+[short_text] District,District,short_text,unsupported,16,District
+[short_text] Enter Your Mobile Number,Enter Your Mobile Number,short_text,phone,2,Enter your mobile number
+[paragraph] 11.  Are you willnig to relocate?,11.  Are you willnig to relocate?,paragraph,unsupported,16,Are you willing to relocate?
+[short_text] Please  enter your Link to your project demo,Please  enter your Link to your project demo,short_text,unsupported,16,Link to your project demo
+[dropdown] State of living,State of living,dropdown,state,10,State of living
+[multiple_choice] State (Current),State (Current),multiple_choice,state,10,State (Current)
+[short_text] Discipline :,Discipline :,short_text,branch,5,Discipline
+[checkboxes] Student's branch,Student's branch,checkboxes,branch,5,Student's branch
+[short_text] Enter your college name,Enter your college name,short_text,college,3,Enter your college name
+[multiple_choice] Enter Enter your full name,Enter Enter your full name,multiple_choice,full_name,0,Enter your full name
+[multiple_choice] PLEASE ENTER YOUR STUDENT'S BRANCH AS PER RECORDS,PLEASE ENTER YOUR STUDENT'S BRANCH AS PER RECORDS,multiple_choice,branch,5,Student's branch
+[short_text] Enter Choose your preferred role *,Enter Choose your preferred role *,short_text,target_role,14,Choose your preferred role
+[dropdown] 6. Enter your Zip code,6. Enter your Zip code,dropdown,unsupported,16,Zip code
+[short_text] Landmark (required),Landmark (required),short_text,unsupported,16,Landmark
+[checkboxes] City name,City name,checkboxes,city,9,City name
+[dropdown] Your email ID for registration,Your email ID for registration,dropdown,email,1,Your email ID for registration
+[short_text] Your Academic qualification,Your Academic qualification,short_text,degree,4,Academic qualification
+[short_text] Stduent Name *,Stduent Name *,short_text,full_name,0,Student Name
+[dropdown] ENTER YOUR PHONE NUMBER,ENTER YOUR PHONE NUMBER,dropdown,phone,2,Your phone number
+[short_text] Location,Location,short_text,city,9,Location
+[short_text] LINKED IN LINK AS PER RECORDS,LINKED IN LINK AS PER RECORDS,short_text,linkedin,12,Linked In link
+[multiple_choice] Please provide your email,Please provide your email,multiple_choice,email,1,Please provide your email
+[short_text] Your Phone Number,Your Phone Number,short_text,phone,2,Your phone number
+[multiple_choice] Sttae  of living,Sttae  of living,multiple_choice,state,10,State of living
+[short_text] DISCIPLINE,DISCIPLINE,short_text,branch,5,Discipline
+[short_text] Where do you see yourself in 5 years?,Where do you see yourself in 5 years?,short_text,open_text,15,Where do you see yourself in 5 years?
+[short_text] Vehicle Number,Vehicle Number,short_text,unsupported,16,Vehicle number
+[short_text] Which skills do you have?,Which skills do you have?,short_text,skills,13,Which skills do you have?
+[short_text] Branch of the student,Branch of the student,short_text,branch,5,Branch of the student
+[short_text] Please enter your Work mode preference (remote/onsite),Please enter your Work mode preference (remote/onsite),short_text,unsupported,16,Work mode preference (remote/onsite)
+[multiple_choice] Mob. No. As Per Records,Mob. No. As Per Records,multiple_choice,phone,2,Mob. No.
+[short_text] 11. Mode of payment,11. Mode of payment,short_text,unsupported,16,Mode of payment
+[short_text] 3. Email,3. Email,short_text,email,1,Email
+[multiple_choice] Degree enrolled,Degree enrolled,multiple_choice,degree,4,Degree enrolled
+[dropdown] 15.  Applicant GitHub profile,15.  Applicant GitHub profile,dropdown,github,11,Applicant GitHub profile
+[paragraph] 8. Email Id for communication,8. Email Id for communication,paragraph,email,1,Email Id for communication
+[short_text] Tell us why you are passionate about technology,Tell us why you are passionate about technology,short_text,open_text,15,Tell us why you are passionate about technology
+[short_text] YOUR CURRENT LOCATION AS PER RECORDS,YOUR CURRENT LOCATION AS PER RECORDS,short_text,city,9,Current Location
+[short_text] Please enter your Cnadidate Name,Please enter your Cnadidate Name,short_text,full_name,0,Candidate Name
+[multiple_choice] Category (General/OBC/SC/ST),Category (General/OBC/SC/ST),multiple_choice,unsupported,16,Category (General/OBC/SC/ST)
+[multiple_choice] Preferred time slot,Preferred time slot,multiple_choice,unsupported,16,Preferred time slot
+[dropdown] class  year,class  year,dropdown,year_of_study,6,Class year
+[checkboxes] Profsesional skills,Profsesional skills,checkboxes,skills,13,Professional skills
+[dropdown] 10. Course undertaken,10. Course undertaken,dropdown,degree,4,Course undertaken
+[short_text] Please enter your Your state,Please enter your Your state,short_text,state,10,Your state
+[dropdown] Current city of residence *,Current city of residence *,dropdown,city,9,Current city of residence
+[short_text] Your  Landmark *,Your  Landmark *,short_text,unsupported,16,Landmark
+[short_text] Enter Your Registered Mobile Number,Enter Your Registered Mobile Number,short_text,phone,2,Registered mobile number
+[multiple_choice] Enter your Position applied for,Enter your Position applied for,multiple_choice,target_role,14,Position applied for
+[short_text] Your  CGPA (Scale 10),Your  CGPA (Scale 10),short_text,cgpa,8,CGPA (Scale 10)
+[multiple_choice] Position applied for,Position applied for,multiple_choice,target_role,14,Position applied for
+[dropdown] PLEASE ENTER YOUR CATEGORY (GENERAL / OBC / SC / ST),PLEASE ENTER YOUR CATEGORY (GENERAL / OBC / SC / ST),dropdown,unsupported,16,Category (General/OBC/SC/ST)
+[dropdown] Please enter your Select role,Please enter your Select role,dropdown,target_role,14,Select role
+[dropdown] Your Job Role,Your Job Role,dropdown,target_role,14,Job Role
+[multiple_choice] Email for correspondence *,Email for correspondence *,multiple_choice,email,1,Email for correspondence
+[short_text] Name of your department,Name of your department,short_text,branch,5,Name of your department
+[short_text] Name of your institution,Name of your institution,short_text,college,3,Name of your institution
+[checkboxes] Primary skills,Primary skills,checkboxes,skills,13,Primary skills
+[paragraph] Official email address,Official email address,paragraph,email,1,Official email address
+[short_text] 5. city of living,5. city of living,short_text,city,9,City of living
+[paragraph] 6. Why do you think you are the right candidate?,6. Why do you think you are the right candidate?,paragraph,open_text,15,Why do you think you are the right candidate?
+[multiple_choice] Aggregate,Aggregate,multiple_choice,cgpa,8,Aggregate
+[multiple_choice] Academic qualification,Academic qualification,multiple_choice,degree,4,Academic qualification
+[dropdown] Enter your year of study,Enter your year of study,dropdown,year_of_study,6,Enter your year of study
+[multiple_choice] Graduating  Year,Graduating  Year,multiple_choice,graduation_year,7,Graduating year
+[short_text] Your name please,Your name please,short_text,full_name,0,Your name please
+[short_text] Class year,Class year,short_text,year_of_study,6,Class year
+[dropdown] Enter City name,Enter City name,dropdown,city,9,City name
+[checkboxes] Year (Current),Year (Current),checkboxes,year_of_study,6,Year (Current)
+[checkboxes] Mode of payment,Mode of payment,checkboxes,unsupported,16,Mode of payment
+[short_text] enter choose your preferred role (required),enter choose your preferred role (required),short_text,target_role,14,Choose your preferred role
+[checkboxes] Enter your Name of your institution,Enter your Name of your institution,checkboxes,college,3,Name of your institution
+[short_text] 5. CGPA in B.Tech,5. CGPA in B.Tech,short_text,cgpa,8,CGPA in B.Tech
+[short_text] 5. CONATCT NUMBER,5. CONATCT NUMBER,short_text,phone,2,Contact Number
+[short_text] 15. Email,15. Email,short_text,email,1,Email
+[short_text] MODE OF PAYMENT AS PER RECORDS,MODE OF PAYMENT AS PER RECORDS,short_text,unsupported,16,Mode of payment
+[checkboxes] ARE YOU CURRENTLY EMPLOYED? AS PER RECORDS,ARE YOU CURRENTLY EMPLOYED? AS PER RECORDS,checkboxes,unsupported,16,Are you currently employed?
+[multiple_choice] Your LinkedIn link,Your LinkedIn link,multiple_choice,linkedin,12,Your LinkedIn link
+[short_text] 12th marks,12th marks,short_text,unsupported,16,12th marks
+[multiple_choice] Year at college,Year at college,multiple_choice,year_of_study,6,Year at college
+[short_text] NAME OF APPLICANT (IN BLOCK LETTERS) (REQUIRED),NAME OF APPLICANT (IN BLOCK LETTERS) (REQUIRED),short_text,full_name,0,Name of Applicant (in block letters)
+[dropdown] Your Batch as per records,Your Batch as per records,dropdown,graduation_year,7,Batch
+[short_text] Choose your preferred role,Choose your preferred role,short_text,target_role,14,Choose your preferred role
+[short_text] FOOD PREFERENCE (VEG/NON-VEG),FOOD PREFERENCE (VEG/NON-VEG),short_text,unsupported,16,Food preference (veg/non-veg)
+[dropdown] YOUR EMAIL ID FOR REGISTRATION,YOUR EMAIL ID FOR REGISTRATION,dropdown,email,1,Your email ID for registration
+[multiple_choice] Degree/Course :,Degree/Course :,multiple_choice,degree,4,Degree/Course
+[dropdown] State (Current) (required),State (Current) (required),dropdown,state,10,State (Current)
+[checkboxes] Studnet Name,Studnet Name,checkboxes,full_name,0,Student Name
+[multiple_choice] Your Candidate's branch,Your Candidate's branch,multiple_choice,branch,5,Candidate's branch
+[short_text] Enter City / Town (required),Enter City / Town (required),short_text,city,9,City / Town
+[dropdown] 7. year at college,7. year at college,dropdown,year_of_study,6,Year at college
+[multiple_choice] Your Number of participants,Your Number of participants,multiple_choice,unsupported,16,Number of participants
+[multiple_choice] add your linkedin profile,add your linkedin profile,multiple_choice,linkedin,12,Add your LinkedIn profile
+[multiple_choice] Which department do you belong to? *,Which department do you belong to? *,multiple_choice,branch,5,Which department do you belong to?
+[checkboxes] Enter List your siklls,Enter List your siklls,checkboxes,skills,13,List your skills
+[multiple_choice] Link to your project demo,Link to your project demo,multiple_choice,unsupported,16,Link to your project demo
+[checkboxes] Enter Technical skill set,Enter Technical skill set,checkboxes,skills,13,Technical skill set
+[short_text] Residence state,Residence state,short_text,state,10,Residence state
+[short_text] Pelase enter your Food preference (veg/non-veg),Pelase enter your Food preference (veg/non-veg),short_text,unsupported,16,Food preference (veg/non-veg)
+[checkboxes] Your LinkedIn URL as per records,Your LinkedIn URL as per records,checkboxes,linkedin,12,LinkedIn URL
+[short_text] Please enter your Class year,Please enter your Class year,short_text,year_of_study,6,Class year
+[paragraph] Please enter your Landmark,Please enter your Landmark,paragraph,unsupported,16,Landmark
+[checkboxes] Enter your UPI ID,Enter your UPI ID,checkboxes,unsupported,16,UPI ID
+[short_text] Declaration,Declaration,short_text,unsupported,16,Declaration
+[short_text] Number  of projects completed (required),Number  of projects completed (required),short_text,unsupported,16,Number of projects completed
+[dropdown] YOUR DOMAIN OF INTEREST,YOUR DOMAIN OF INTEREST,dropdown,target_role,14,Domain of interest
+[paragraph] Enter your Programming languages,Enter your Programming languages,paragraph,skills,13,Programming languages
+[multiple_choice] Please Enter Your Github Profile,Please Enter Your Github Profile,multiple_choice,github,11,GitHub Profile
+[short_text] Educational Institution,Educational Institution,short_text,college,3,Educational Institution
+[dropdown] 10. Uinversity Name,10. Uinversity Name,dropdown,college,3,University Name
+[multiple_choice] UPI  ID,UPI  ID,multiple_choice,unsupported,16,UPI ID
+[dropdown] Can  you attend the interview offline?(required),Can  you attend the interview offline?(required),dropdown,unsupported,16,Can you attend the interview offline?
+[short_text] Preferred internship roleas per records,Preferred internship roleas per records,short_text,target_role,14,Preferred internship role
+[paragraph] 14. hakcathon problem statement id,14. hakcathon problem statement id,paragraph,unsupported,16,Hackathon problem statement ID
+[short_text] Candidate Name*,Candidate Name*,short_text,full_name,0,Candidate Name
+[multiple_choice] Please enter your Contact no. of the candidate,Please enter your Contact no. of the candidate,multiple_choice,phone,2,Contact no. of the candidate
+[short_text] Brief introduction about yourself*,Brief introduction about yourself*,short_text,open_text,15,Brief introduction about yourself
+[dropdown] GitHub repository profile link,GitHub repository profile link,dropdown,github,11,GitHub repository profile link
+[multiple_choice] ROLE  YOU ARE APPLYING FOR AS PER RECORDS,ROLE  YOU ARE APPLYING FOR AS PER RECORDS,multiple_choice,target_role,14,Role you are applying for
+[dropdown] Select stateas per records,Select stateas per records,dropdown,state,10,Select state
+[multiple_choice] Residence sttae,Residence sttae,multiple_choice,state,10,Residence state
+[multiple_choice] Btach,Btach,multiple_choice,graduation_year,7,Batch
+[dropdown] Educational qualification,Educational qualification,dropdown,degree,4,Educational qualification
+[short_text] Stateemnt of purpose :,Stateemnt of purpose :,short_text,open_text,15,Statement of purpose
+[checkboxes] 7. Email for correspondence,7. Email for correspondence,checkboxes,email,1,Email for correspondence
+[short_text] Email  for correspondence,Email  for correspondence,short_text,email,1,Email for correspondence
+[dropdown] Phoneas per records,Phoneas per records,dropdown,phone,2,Phone
+[short_text] Student's  branch,Student's  branch,short_text,branch,5,Student's branch
+[short_text] 15. Which year are you currently studying?,15. Which year are you currently studying?,short_text,year_of_study,6,Which year are you currently studying?
+[short_text] 15. Emergency contact number,15. Emergency contact number,short_text,unsupported,16,Emergency contact number
+[short_text] Mob  No *,Mob  No *,short_text,phone,2,Mob. No.
+[short_text] What is your name? (required),What is your name? (required),short_text,full_name,0,What is your name?
+[short_text] Date of Birth as per records,Date of Birth as per records,short_text,unsupported,16,Date of Birth
+[short_text] Enter Team name,Enter Team name,short_text,unsupported,16,Team name
+[paragraph] Tell  us about your achievements :,Tell  us about your achievements :,paragraph,open_text,15,Tell us about your achievements
+[short_text] Graduating year,Graduating year,short_text,graduation_year,7,Graduating year
+[multiple_choice] state of domicile,state of domicile,multiple_choice,state,10,State of domicile
+[multiple_choice] your state*,your state*,multiple_choice,state,10,Your state
+[checkboxes] Cgpa (On A Scale Of 10),Cgpa (On A Scale Of 10),checkboxes,cgpa,8,CGPA (on a scale of 10)
+[short_text] gender,gender,short_text,unsupported,16,Gender
+[short_text] 3. Your Barnch of the student,3. Your Barnch of the student,short_text,branch,5,Branch of the student
+[dropdown] Siklls you are proficient in,Siklls you are proficient in,dropdown,skills,13,Skills you are proficient in
+[paragraph] Please share your LinkedIn profile,Please share your LinkedIn profile,paragraph,linkedin,12,Please share your LinkedIn profile
+[checkboxes] Enter  your Contact Number,Enter  your Contact Number,checkboxes,phone,2,Contact Number
+[multiple_choice] PLESAE ENTER YOUR YOUR LINKEDIN LINK,PLESAE ENTER YOUR YOUR LINKEDIN LINK,multiple_choice,linkedin,12,Your LinkedIn link
+[dropdown] State of domicile,State of domicile,dropdown,state,10,State of domicile
+[short_text] PLEASE ENTER YOUR MODE OF PAYMENT,PLEASE ENTER YOUR MODE OF PAYMENT,short_text,unsupported,16,Mode of payment
+[short_text] Enter your mobile numebr,Enter your mobile numebr,short_text,phone,2,Enter your mobile number
+[short_text] Enter Your good name,Enter Your good name,short_text,full_name,0,Your good name
+[dropdown] Graduaitng year,Graduaitng year,dropdown,graduation_year,7,Graduating year
+[dropdown] GITHUB REPOSITORY PROFILE LINK,GITHUB REPOSITORY PROFILE LINK,dropdown,github,11,GitHub repository profile link
+[paragraph] Enter your Year at college,Enter your Year at college,paragraph,year_of_study,6,Year at college
+[multiple_choice] UG CGPA,UG CGPA,multiple_choice,cgpa,8,UG CGPA
+[dropdown] Enter  your Expected stipend,Enter  your Expected stipend,dropdown,unsupported,16,Expected stipend
+[multiple_choice] City/Town of residence,City/Town of residence,multiple_choice,city,9,City/Town of residence
+[dropdown] Please enter your GPA,Please enter your GPA,dropdown,cgpa,8,GPA
+[checkboxes] current  degree :,current  degree :,checkboxes,degree,4,Current degree
+[dropdown] overall  gpa,overall  gpa,dropdown,cgpa,8,Overall GPA
+[dropdown] Your Valid email address,Your Valid email address,dropdown,email,1,Valid email address
+[multiple_choice] CURRENT ACADEMIC YEAR,CURRENT ACADEMIC YEAR,multiple_choice,year_of_study,6,Current academic year
+[dropdown] Which year will you graduate? :,Which year will you graduate? :,dropdown,graduation_year,7,Which year will you graduate?
+[dropdown] What is your name? :,What is your name? :,dropdown,full_name,0,What is your name?
+[paragraph] Your good name *,Your good name *,paragraph,full_name,0,Your good name
+[short_text] Aggregate*,Aggregate*,short_text,cgpa,8,Aggregate
+[dropdown] Declaartion,Declaartion,dropdown,unsupported,16,Declaration
+[short_text] Please enter your Vehicle number as per records,Please enter your Vehicle number as per records,short_text,unsupported,16,Vehicle number
+[multiple_choice] 3.  Percentage,3.  Percentage,multiple_choice,unsupported,16,Percentage
+[short_text] Registered mobile number,Registered mobile number,short_text,phone,2,Registered mobile number
+[dropdown] 13. CITY YOU ARE CURRENTLY IN,13. CITY YOU ARE CURRENTLY IN,dropdown,city,9,City you are currently in
+[dropdown] Enter your Gender,Enter your Gender,dropdown,unsupported,16,Gender
+[dropdown] Applied position *,Applied position *,dropdown,target_role,14,Applied position
+[multiple_choice] Year In Which You Will Gradaute,Year In Which You Will Gradaute,multiple_choice,graduation_year,7,Year in which you will graduate
+[checkboxes] Year Of Studying,Year Of Studying,checkboxes,year_of_study,6,Year of studying
+[short_text] Currently in which year?,Currently in which year?,short_text,year_of_study,6,Currently in which year?
+[short_text] Location as per rceords,Location as per rceords,short_text,city,9,Location
+[dropdown] your contact number,your contact number,dropdown,phone,2,Your contact number
+[short_text] 1. CGPA in B.Tech,1. CGPA in B.Tech,short_text,cgpa,8,CGPA in B.Tech
+[dropdown] Which year will you graduate?,Which year will you graduate?,dropdown,graduation_year,7,Which year will you graduate?
+[paragraph] Enter Your Technical Skill Set (Required),Enter Your Technical Skill Set (Required),paragraph,skills,13,Technical skill set
+[short_text] 14 Zip code,14 Zip code,short_text,unsupported,16,Zip code
+[short_text] Student Name,Student Name,short_text,full_name,0,Student Name
+[dropdown] Stream of study,Stream of study,dropdown,branch,5,Stream of study
+[dropdown] Hackathon  problem statement ID,Hackathon  problem statement ID,dropdown,unsupported,16,Hackathon problem statement ID
+[short_text] What are your career goals?,What are your career goals?,short_text,open_text,15,What are your career goals?
+[multiple_choice] branch of the student *,branch of the student *,multiple_choice,branch,5,Branch of the student
+[dropdown] Gihtub  /  Git Profile Link,Gihtub  /  Git Profile Link,dropdown,github,11,GitHub / Git profile link
+[checkboxes] Please enter your Degree,Please enter your Degree,checkboxes,degree,4,Degree
+[multiple_choice] PHONE,PHONE,multiple_choice,phone,2,Phone
+[dropdown] Enter your GtiHub Profile,Enter your GtiHub Profile,dropdown,github,11,GitHub Profile
+[checkboxes] Your contact number,Your contact number,checkboxes,phone,2,Your contact number
+[short_text] GitHub page (required),GitHub page (required),short_text,github,11,GitHub page
+[short_text] Your phone number,Your phone number,short_text,phone,2,Your phone number
+[dropdown] 5. Emergency contact number as per records,5. Emergency contact number as per records,dropdown,unsupported,16,Emergency contact number
+[dropdown] State (Current) *,State (Current) *,dropdown,state,10,State (Current)
+[short_text] WRITE  ABOUT YOUR PREVIOUS INTERNSHIP EXPERIENCE,WRITE  ABOUT YOUR PREVIOUS INTERNSHIP EXPERIENCE,short_text,open_text,15,Write about your previous internship experience
+[dropdown] Core branch,Core branch,dropdown,branch,5,Core branch
+[dropdown] enter what should we call you? (full name),enter what should we call you? (full name),dropdown,full_name,0,What should we call you? (full name)
+[short_text] Your Please share your GitHub profile as per records,Your Please share your GitHub profile as per records,short_text,github,11,Please share your GitHub profile
+[multiple_choice] 4 What is your CGPA?,4 What is your CGPA?,multiple_choice,cgpa,8,What is your CGPA?
+[multiple_choice] Batch of passing out,Batch of passing out,multiple_choice,graduation_year,7,Batch of passing out
+[multiple_choice] Degree completion year as per records,Degree completion year as per records,multiple_choice,graduation_year,7,Degree completion year
+[short_text] Contact no. of the candidate,Contact no. of the candidate,short_text,phone,2,Contact no. of the candidate
+[short_text] JEE  rank,JEE  rank,short_text,unsupported,16,JEE rank
+[short_text] Name  of University/College,Name  of University/College,short_text,college,3,Name of University/College
+[multiple_choice] Role you are applying for (required),Role you are applying for (required),multiple_choice,target_role,14,Role you are applying for
+[dropdown] 2. Number of projects completed,2. Number of projects completed,dropdown,unsupported,16,Number of projects completed
+[short_text] Enter Batch of passing out,Enter Batch of passing out,short_text,graduation_year,7,Batch of passing out
+[short_text] Enter your full name,Enter your full name,short_text,full_name,0,Enter your full name
+[dropdown] Zip code,Zip code,dropdown,unsupported,16,Zip code
+[short_text] Your  Tell us why you are passionate about technology,Your  Tell us why you are passionate about technology,short_text,open_text,15,Tell us why you are passionate about technology
+[dropdown] Source of information,Source of information,dropdown,unsupported,16,Source of information
+[multiple_choice] City / Town,City / Town,multiple_choice,city,9,City / Town
+[dropdown] Name of University/College,Name of University/College,dropdown,college,3,Name of University/College
+[checkboxes] Degree completion year,Degree completion year,checkboxes,graduation_year,7,Degree completion year
+[dropdown] Oevrall GPA,Oevrall GPA,dropdown,cgpa,8,Overall GPA
+[dropdown] Emergency contact number,Emergency contact number,dropdown,unsupported,16,Emergency contact number
+[paragraph] what are your hobbies and interests?,what are your hobbies and interests?,paragraph,open_text,15,What are your hobbies and interests?
+[dropdown] Degree/Course,Degree/Course,dropdown,degree,4,Degree/Course
+[short_text] What are your hobbies and interests? (required),What are your hobbies and interests? (required),short_text,open_text,15,What are your hobbies and interests?
+[multiple_choice] SELECT STATE,SELECT STATE,multiple_choice,state,10,Select state
+[dropdown] Your  Food preference (veg/non-veg),Your  Food preference (veg/non-veg),dropdown,unsupported,16,Food preference (veg/non-veg)
+[short_text] source of information,source of information,short_text,unsupported,16,Source of information
+[paragraph] GPA,GPA,paragraph,cgpa,8,GPA
+[checkboxes] Programming languages,Programming languages,checkboxes,skills,13,Programming languages
+[short_text] Please enter your Please provide your email as per records,Please enter your Please provide your email as per records,short_text,email,1,Please provide your email
+[dropdown] ug cgpa,ug cgpa,dropdown,cgpa,8,UG CGPA
+[short_text] Name of your depratment,Name of your depratment,short_text,branch,5,Name of your department
+[short_text] PREFERRED TIME SLOT,PREFERRED TIME SLOT,short_text,unsupported,16,Preferred time slot
+[dropdown] Time slot,Time slot,dropdown,unsupported,16,Time slot
+[dropdown] Educational Institution (required),Educational Institution (required),dropdown,college,3,Educational Institution
+[checkboxes] Enter List your skills,Enter List your skills,checkboxes,skills,13,List your skills
+[dropdown] please enter your declaration *,please enter your declaration *,dropdown,unsupported,16,Declaration
+[short_text] Current Location,Current Location,short_text,city,9,Current Location
+[short_text] Are you willing to relocate?,Are you willing to relocate?,short_text,unsupported,16,Are you willing to relocate?
+[dropdown] Your state,Your state,dropdown,state,10,Your state
+[paragraph] Enter your Category (General/OBC/SC/ST)(required),Enter your Category (General/OBC/SC/ST)(required),paragraph,unsupported,16,Category (General/OBC/SC/ST)
+[short_text] City you are currently in,City you are currently in,short_text,city,9,City you are currently in
+[dropdown] Your Branch of the student,Your Branch of the student,dropdown,branch,5,Branch of the student
+[short_text] Enter your State of the candidate,Enter your State of the candidate,short_text,state,10,State of the candidate
+[dropdown] Enter your Degree enroleld (required),Enter your Degree enroleld (required),dropdown,degree,4,Degree enrolled
+[dropdown] Current university,Current university,dropdown,college,3,Current university
+[short_text] Write About Your Previous Internship Experience,Write About Your Previous Internship Experience,short_text,open_text,15,Write about your previous internship experience
+[multiple_choice] BIRTH DATE :,BIRTH DATE :,multiple_choice,unsupported,16,Birth date
+[paragraph] stream of study,stream of study,paragraph,branch,5,Stream of study
+[multiple_choice] Your LinkedIn account URL as per records,Your LinkedIn account URL as per records,multiple_choice,linkedin,12,LinkedIn account URL
+[short_text] Add your GituHb profile,Add your GituHb profile,short_text,github,11,Add your GitHub profile
+[short_text] Enter your Source of information,Enter your Source of information,short_text,unsupported,16,Source of information
+[short_text] 8. State Of The Candidate,8. State Of The Candidate,short_text,state,10,State of the candidate
+[multiple_choice] Signature,Signature,multiple_choice,unsupported,16,Signature
+[dropdown] Educational Qualification As Per Records,Educational Qualification As Per Records,dropdown,degree,4,Educational qualification
+[multiple_choice] Enter your Educational qualification,Enter your Educational qualification,multiple_choice,degree,4,Educational qualification
+[checkboxes] List your skills,List your skills,checkboxes,skills,13,List your skills
+[short_text] Name  of Applicant (in block letters),Name  of Applicant (in block letters),short_text,full_name,0,Name of Applicant (in block letters)
+[short_text] Which department do you belong to?,Which department do you belong to?,short_text,branch,5,Which department do you belong to?
+[multiple_choice] TEAM NAME,TEAM NAME,multiple_choice,unsupported,16,Team name
+[paragraph] What should we call you? (full name),What should we call you? (full name),paragraph,full_name,0,What should we call you? (full name)
+[short_text] Please enter your Current Location,Please enter your Current Location,short_text,city,9,Current Location
+[short_text] Your name please*,Your name please*,short_text,full_name,0,Your name please
+[multiple_choice] Domain  of interest :,Domain  of interest :,multiple_choice,target_role,14,Domain of interest
+[dropdown] Plesae enter your Discipline of study,Plesae enter your Discipline of study,dropdown,branch,5,Discipline of study
+[checkboxes] 15. Skills you are proficient in,15. Skills you are proficient in,checkboxes,skills,13,Skills you are proficient in
+[short_text] Your District,Your District,short_text,unsupported,16,District
+[short_text] 7. Which year will you graduate?,7. Which year will you graduate?,short_text,graduation_year,7,Which year will you graduate?
+[dropdown] Enter City / Town of residence,Enter City / Town of residence,dropdown,city,9,City/Town of residence
+[dropdown] Add your LinkedIn profile,Add your LinkedIn profile,dropdown,linkedin,12,Add your LinkedIn profile
+[paragraph] CGPA (on a scale of 10),CGPA (on a scale of 10),paragraph,cgpa,8,CGPA (on a scale of 10)
+[dropdown] Enter your Degree,Enter your Degree,dropdown,degree,4,Degree
+[short_text] Crurent  university,Crurent  university,short_text,college,3,Current university
+[paragraph] Why do you think you are the rgiht candidate?,Why do you think you are the rgiht candidate?,paragraph,open_text,15,Why do you think you are the right candidate?
+[dropdown] Aggregate (required),Aggregate (required),dropdown,cgpa,8,Aggregate
+[short_text] university name,university name,short_text,college,3,University Name
+[short_text] Present state of residence,Present state of residence,short_text,state,10,Present state of residence
+[short_text] Which  department do you belong to?,Which  department do you belong to?,short_text,branch,5,Which department do you belong to?
+[paragraph] 7. Enter State of domicile,7. Enter State of domicile,paragraph,state,10,State of domicile
+[dropdown] Enter Official email address as per records,Enter Official email address as per records,dropdown,email,1,Official email address
+[short_text] 12 Enter your LinkedIn Id link,12 Enter your LinkedIn Id link,short_text,linkedin,12,LinkedIn Id link
+[short_text] Enter your year of study(required),Enter your year of study(required),short_text,year_of_study,6,Enter your year of study
+[multiple_choice] CGPA (Scale 10),CGPA (Scale 10),multiple_choice,cgpa,8,CGPA (Scale 10)
+[dropdown] 2. NAME OF APPLICANT (IN BLOCK LETTERS),2. NAME OF APPLICANT (IN BLOCK LETTERS),dropdown,full_name,0,Name of Applicant (in block letters)
+[checkboxes] GitHub Profile,GitHub Profile,checkboxes,github,11,GitHub Profile
+[dropdown] city / town,city / town,dropdown,city,9,City / Town
+[paragraph] ACADEMIC BTACH,ACADEMIC BTACH,paragraph,graduation_year,7,Academic batch
+[short_text] LinkedIn URL,LinkedIn URL,short_text,linkedin,12,LinkedIn URL
+[short_text] Percentage,Percentage,short_text,unsupported,16,Percentage
+[dropdown] 1.  Core branch as per records,1.  Core branch as per records,dropdown,branch,5,Core branch
+[short_text] LinkedIn Id link,LinkedIn Id link,short_text,linkedin,12,LinkedIn Id link
+[short_text] Date of Birth,Date of Birth,short_text,unsupported,16,Date of Birth
+[short_text] Work mode preference (remote/onsite),Work mode preference (remote/onsite),short_text,unsupported,16,Work mode preference (remote/onsite)
+[dropdown] Your cnotact number,Your cnotact number,dropdown,phone,2,Your contact number
+[dropdown] Discipline,Discipline,dropdown,branch,5,Discipline
+[multiple_choice] CITY NAME,CITY NAME,multiple_choice,city,9,City name
+[multiple_choice] Select  role,Select  role,multiple_choice,target_role,14,Select role
+[short_text] Your  Linkedin Link,Your  Linkedin Link,short_text,linkedin,12,Your LinkedIn link
+[checkboxes] 5. Primary Skills,5. Primary Skills,checkboxes,skills,13,Primary skills
+[paragraph] ENTER LINKEDIN ACCOUNT URL AS PER RECORDS,ENTER LINKEDIN ACCOUNT URL AS PER RECORDS,paragraph,linkedin,12,LinkedIn account URL
+[short_text] Candidate Name *,Candidate Name *,short_text,full_name,0,Candidate Name
+[dropdown] Please provide your email*,Please provide your email*,dropdown,email,1,Please provide your email
+[paragraph] Your Statement of purpose,Your Statement of purpose,paragraph,open_text,15,Statement of purpose
+[short_text] Link  to your project demo,Link  to your project demo,short_text,unsupported,16,Link to your project demo
+[short_text] Number  of participants as per records,Number  of participants as per records,short_text,unsupported,16,Number of participants
+[dropdown] Name of Applicant (in block letters),Name of Applicant (in block letters),dropdown,full_name,0,Name of Applicant (in block letters)
+[multiple_choice] Email,Email,multiple_choice,email,1,Email
+[dropdown] Relgiion,Relgiion,dropdown,unsupported,16,Religion
+[multiple_choice] time slot (required),time slot (required),multiple_choice,unsupported,16,Time slot
+[short_text] 2. Enter your full name *,2. Enter your full name *,short_text,full_name,0,Enter your full name
+[multiple_choice] ENTER LINKEDIN PROFILE,ENTER LINKEDIN PROFILE,multiple_choice,linkedin,12,LinkedIn Profile
+[short_text] your technical skills,your technical skills,short_text,skills,13,Your technical skills
+[short_text] Current city of residence,Current city of residence,short_text,city,9,Current city of residence
+[dropdown] CGPA (Scale 10) *,CGPA (Scale 10) *,dropdown,cgpa,8,CGPA (Scale 10)
+[multiple_choice] Preferred internship role,Preferred internship role,multiple_choice,target_role,14,Preferred internship role
+[multiple_choice] AGGREGTAE,AGGREGTAE,multiple_choice,cgpa,8,Aggregate
+[short_text] Tell us why you are passionate about technology *,Tell us why you are passionate about technology *,short_text,open_text,15,Tell us why you are passionate about technology
+[dropdown] 11 Which year are you currently studying?,11 Which year are you currently studying?,dropdown,year_of_study,6,Which year are you currently studying?
+[dropdown] YOUR NAME PLEASE,YOUR NAME PLEASE,dropdown,full_name,0,Your name please
+[short_text] Tell us about your achievements :,Tell us about your achievements :,short_text,open_text,15,Tell us about your achievements
+[short_text] Etner  UG CGPA,Etner  UG CGPA,short_text,cgpa,8,UG CGPA
+[short_text] Your Emial,Your Emial,short_text,email,1,Email
+[short_text] Applicant GitHub profile,Applicant GitHub profile,short_text,github,11,Applicant GitHub profile
+[dropdown] Degree  Completion Year :,Degree  Completion Year :,dropdown,graduation_year,7,Degree completion year
+[checkboxes] email id for communication,email id for communication,checkboxes,email,1,Email Id for communication
+[multiple_choice] enter your course doing,enter your course doing,multiple_choice,degree,4,Course doing
+[short_text] Batch Of Passing Out As Per Reocrds,Batch Of Passing Out As Per Reocrds,short_text,graduation_year,7,Batch of passing out
+[short_text] Enter Percentage,Enter Percentage,short_text,unsupported,16,Percentage
+[dropdown] Enter your GiHtub page,Enter your GiHtub page,dropdown,github,11,GitHub page
+[short_text] your add your github profile,your add your github profile,short_text,github,11,Add your GitHub profile
+[short_text] Which department do you beolng to? *,Which department do you beolng to? *,short_text,branch,5,Which department do you belong to?
+[short_text] Coupon code,Coupon code,short_text,unsupported,16,Coupon code
+[checkboxes] Skills you are proficient in (required),Skills you are proficient in (required),checkboxes,skills,13,Skills you are proficient in
+[dropdown] Please enter your Name of your department,Please enter your Name of your department,dropdown,branch,5,Name of your department
+[short_text] Couopn code,Couopn code,short_text,unsupported,16,Coupon code
+[short_text] LinkedIn account URL,LinkedIn account URL,short_text,linkedin,12,LinkedIn account URL
+[checkboxes] Technical skill set,Technical skill set,checkboxes,skills,13,Technical skill set
+[checkboxes] Religoin,Religoin,checkboxes,unsupported,16,Religion
+[dropdown] Gender,Gender,dropdown,unsupported,16,Gender
+[short_text] Please enter your Mob. No.,Please enter your Mob. No.,short_text,phone,2,Mob. No.
+[short_text] LinkedIn Id link as per records,LinkedIn Id link as per records,short_text,linkedin,12,LinkedIn Id link
+[dropdown] Discipline of study,Discipline of study,dropdown,branch,5,Discipline of study
+[short_text] Domain  of inetrest,Domain  of inetrest,short_text,target_role,14,Domain of interest
+[short_text] Your Candidate'S Branch,Your Candidate'S Branch,short_text,branch,5,Candidate's branch
+[short_text] City of living :,City of living :,short_text,city,9,City of living
+[multiple_choice] please enter your name of your department,please enter your name of your department,multiple_choice,branch,5,Name of your department
+[checkboxes] Skills you are proficient in,Skills you are proficient in,checkboxes,skills,13,Skills you are proficient in
+[multiple_choice] Applicant  GitHub profile,Applicant  GitHub profile,multiple_choice,github,11,Applicant GitHub profile
+[short_text] Enter your GitHub Profile,Enter your GitHub Profile,short_text,github,11,GitHub Profile
+[checkboxes] Your Position name,Your Position name,checkboxes,target_role,14,Position name
+[paragraph] Degree,Degree,paragraph,degree,4,Degree
+[checkboxes] Gedner,Gedner,checkboxes,unsupported,16,Gender
+[checkboxes] enter your list your skills,enter your list your skills,checkboxes,skills,13,List your skills
+[checkboxes] 15 Whcih year are you currently studying?,15 Whcih year are you currently studying?,checkboxes,year_of_study,6,Which year are you currently studying?
+[checkboxes] Your technical skills,Your technical skills,checkboxes,skills,13,Your technical skills
+[dropdown] Work  Mode Prefernece (Remote/Onsite) As Per Records,Work  Mode Prefernece (Remote/Onsite) As Per Records,dropdown,unsupported,16,Work mode preference (remote/onsite)
+[dropdown] 12 Affiliated college,12 Affiliated college,dropdown,college,3,Affiliated college
+[dropdown] Work  mode preference (remote/onsite) (required),Work  mode preference (remote/onsite) (required),dropdown,unsupported,16,Work mode preference (remote/onsite)
+[checkboxes] 13. Phone*,13. Phone*,checkboxes,phone,2,Phone
+[short_text] Your Univeristy Name,Your Univeristy Name,short_text,college,3,University Name
+[dropdown] Add your LinkedIn profile *,Add your LinkedIn profile *,dropdown,linkedin,12,Add your LinkedIn profile
+[short_text] Religion,Religion,short_text,unsupported,16,Religion
+[short_text] Enter your Name of University/College,Enter your Name of University/College,short_text,college,3,Name of University/College
+[paragraph] Where Do You See Yourself In 5 Years?,Where Do You See Yourself In 5 Years?,paragraph,open_text,15,Where do you see yourself in 5 years?
+[multiple_choice] Degree enrolled (required),Degree enrolled (required),multiple_choice,degree,4,Degree enrolled
+[short_text] Enter your LinkedIn Profile Link(required),Enter your LinkedIn Profile Link(required),short_text,linkedin,12,LinkedIn Profile Link
+[short_text] Enter Scholarships recieved,Enter Scholarships recieved,short_text,unsupported,16,Scholarships received
+[short_text] Year (Current) (Required),Year (Current) (Required),short_text,year_of_study,6,Year (Current)
+[checkboxes] YOUR TECNHICAL SKILLS,YOUR TECNHICAL SKILLS,checkboxes,skills,13,Your technical skills
+[short_text] Which skills do you have? as per records,Which skills do you have? as per records,short_text,skills,13,Which skills do you have?
+[short_text] Preferred Time Slot,Preferred Time Slot,short_text,unsupported,16,Preferred time slot
+[paragraph] What are your craeer goals?,What are your craeer goals?,paragraph,open_text,15,What are your career goals?
+[dropdown] What is your name?,What is your name?,dropdown,full_name,0,What is your name?
+[checkboxes] Distrcit,Distrcit,checkboxes,unsupported,16,District
+[short_text] Email Id for communication,Email Id for communication,short_text,email,1,Email Id for communication
+[multiple_choice] Enter Current degree,Enter Current degree,multiple_choice,degree,4,Current degree
+[multiple_choice] ACADEMIC BATCH,ACADEMIC BATCH,multiple_choice,graduation_year,7,Academic batch
+[dropdown] city name,city name,dropdown,city,9,City name
+[short_text] what are your career goals?(required),what are your career goals?(required),short_text,open_text,15,What are your career goals?
+[multiple_choice] SCHOLARSHIPS RECEIVED,SCHOLARSHIPS RECEIVED,multiple_choice,unsupported,16,Scholarships received
+[short_text] Add your GitHub profile,Add your GitHub profile,short_text,github,11,Add your GitHub profile
+[short_text] Official email address (required),Official email address (required),short_text,email,1,Official email address
+[dropdown] Name of your institution (required),Name of your institution (required),dropdown,college,3,Name of your institution
+[paragraph] WHAT ARE YOUR HOBBIES AND INTERESTS? :,WHAT ARE YOUR HOBBIES AND INTERESTS? :,paragraph,open_text,15,What are your hobbies and interests?
+[short_text] Enter Write about your previous internship experience,Enter Write about your previous internship experience,short_text,open_text,15,Write about your previous internship experience
+[short_text] ENTER PERCENTAGE *,ENTER PERCENTAGE *,short_text,unsupported,16,Percentage
+[dropdown] 3. UG CGPA,3. UG CGPA,dropdown,cgpa,8,UG CGPA
+[dropdown] 9. Signature,9. Signature,dropdown,unsupported,16,Signature
+[short_text] City/Town  of residence,City/Town  of residence,short_text,city,9,City/Town of residence
+[multiple_choice] Please  sahre your LinkedIn profile,Please  sahre your LinkedIn profile,multiple_choice,linkedin,12,Please share your LinkedIn profile
+[multiple_choice] DEGREE ENROLLED :,DEGREE ENROLLED :,multiple_choice,degree,4,Degree enrolled
+[short_text] PROGRAMMING LANGUAGES,PROGRAMMING LANGUAGES,short_text,skills,13,Programming languages
+[short_text] Languages and frameworks known,Languages and frameworks known,short_text,skills,13,Languages and frameworks known
+[short_text] What  is your CGPA?,What  is your CGPA?,short_text,cgpa,8,What is your CGPA?
+[short_text] Birth Date,Birth Date,short_text,unsupported,16,Birth date
+[short_text] Please enter your GitHub repository profile link,Please enter your GitHub repository profile link,short_text,github,11,GitHub repository profile link
+[multiple_choice] ENTER DATE OF BIRTH,ENTER DATE OF BIRTH,multiple_choice,unsupported,16,Date of Birth
+[dropdown] Email Id for communication (required),Email Id for communication (required),dropdown,email,1,Email Id for communication
+[short_text] Current  university,Current  university,short_text,college,3,Current university
+[short_text] Please enter your Your LinkedIn link,Please enter your Your LinkedIn link,short_text,linkedin,12,Your LinkedIn link
+[multiple_choice] LinkedIn Profile,LinkedIn Profile,multiple_choice,linkedin,12,LinkedIn Profile
+[short_text] Enter Current Location (required),Enter Current Location (required),short_text,city,9,Current Location
+[dropdown] currently in which year?,currently in which year?,dropdown,year_of_study,6,Currently in which year?
+[paragraph] select state *,select state *,paragraph,state,10,Select state
+[short_text] Enter 12th makrs,Enter 12th makrs,short_text,unsupported,16,12th marks
+[multiple_choice] 11. Degree/Course,11. Degree/Course,multiple_choice,degree,4,Degree/Course
+[checkboxes] Tcehnical skill set,Tcehnical skill set,checkboxes,skills,13,Technical skill set
+[short_text] Enter  your Signature,Enter  your Signature,short_text,unsupported,16,Signature
+[short_text] Please enter your Role you are applying for,Please enter your Role you are applying for,short_text,target_role,14,Role you are applying for
+[short_text] LinkedIn Profile *,LinkedIn Profile *,short_text,linkedin,12,LinkedIn Profile
+[checkboxes] LANGUAGES AND FRAMEWORKS KNOWN,LANGUAGES AND FRAMEWORKS KNOWN,checkboxes,skills,13,Languages and frameworks known
+[checkboxes] Referred by *,Referred by *,checkboxes,unsupported,16,Referred by
+[multiple_choice] Degree/Course *,Degree/Course *,multiple_choice,degree,4,Degree/Course
+[paragraph] Tell us about your achievements,Tell us about your achievements,paragraph,open_text,15,Tell us about your achievements
+[short_text] Select state,Select state,short_text,state,10,Select state
+[dropdown] Enter  your Position name,Enter  your Position name,dropdown,target_role,14,Position name
+[paragraph] Enter your State of the candidate *,Enter your State of the candidate *,paragraph,state,10,State of the candidate
+[paragraph] 8. Enter your Brief introduction about yourself,8. Enter your Brief introduction about yourself,paragraph,open_text,15,Brief introduction about yourself
+[multiple_choice] Please  enter your Enter your college name *,Please  enter your Enter your college name *,multiple_choice,college,3,Enter your college name
+[short_text] Your Coupon code,Your Coupon code,short_text,unsupported,16,Coupon code
+[paragraph] Name of your university or college,Name of your university or college,paragraph,college,3,Name of your university or college
+[short_text] Educational qualification(required),Educational qualification(required),short_text,degree,4,Educational qualification
+[short_text] Batch of passing outas per records,Batch of passing outas per records,short_text,graduation_year,7,Batch of passing out
+[short_text] Linked  In link,Linked  In link,short_text,linkedin,12,Linked In link
+[multiple_choice] 12. Preferred internship role,12. Preferred internship role,multiple_choice,target_role,14,Preferred internship role
+[multiple_choice] Applied position,Applied position,multiple_choice,target_role,14,Applied position
+[multiple_choice] Please  enter your Name of your university or college,Please  enter your Name of your university or college,multiple_choice,college,3,Name of your university or college
+[short_text] Add  your GitHub profile,Add  your GitHub profile,short_text,github,11,Add your GitHub profile
+[dropdown] State of the candidate,State of the candidate,dropdown,state,10,State of the candidate
+[short_text] 8. Cgpa In B.Tech,8. Cgpa In B.Tech,short_text,cgpa,8,CGPA in B.Tech
+[short_text] ENTER  YOUR LOCATION,ENTER  YOUR LOCATION,short_text,city,9,Location
+[short_text] your academic batch,your academic batch,short_text,graduation_year,7,Academic batch
+[short_text] LinkedIn Profile Link,LinkedIn Profile Link,short_text,linkedin,12,LinkedIn Profile Link
+[short_text] Your Enter your college name*,Your Enter your college name*,short_text,college,3,Enter your college name
+[dropdown] DISCIPLINE :,DISCIPLINE :,dropdown,branch,5,Discipline
+[dropdown] Your Year of studying,Your Year of studying,dropdown,year_of_study,6,Year of studying
+[short_text] Please enter your Professional skills :,Please enter your Professional skills :,short_text,skills,13,Professional skills
+[short_text] 3.  CITY / TOWN,3.  CITY / TOWN,short_text,city,9,City / Town
+[multiple_choice] Which year will you graduate? (required),Which year will you graduate? (required),multiple_choice,graduation_year,7,Which year will you graduate?
+[multiple_choice] 8. Please share your LinkdeIn profile,8. Please share your LinkdeIn profile,multiple_choice,linkedin,12,Please share your LinkedIn profile
+[dropdown] CURRENTLY IN WHICH YEAR?,CURRENTLY IN WHICH YEAR?,dropdown,year_of_study,6,Currently in which year?
+[short_text] hackathon problem statement id,hackathon problem statement id,short_text,unsupported,16,Hackathon problem statement ID
+[short_text] Are  you willing to relocate? as per records,Are  you willing to relocate? as per records,short_text,unsupported,16,Are you willing to relocate?
+[short_text] Please  enter your Discipline of study *,Please  enter your Discipline of study *,short_text,branch,5,Discipline of study
+[multiple_choice] Your Date of Birth*,Your Date of Birth*,multiple_choice,unsupported,16,Date of Birth
+[paragraph] 15 Where do you see yourself in 5 years?,15 Where do you see yourself in 5 years?,paragraph,open_text,15,Where do you see yourself in 5 years?
+[short_text] Your Current university,Your Current university,short_text,college,3,Current university
+[short_text] Your LinkedIn Profile Link,Your LinkedIn Profile Link,short_text,linkedin,12,LinkedIn Profile Link
+[short_text] tell us about your achievements,tell us about your achievements,short_text,open_text,15,Tell us about your achievements
+[paragraph] Please enter your Statement of purpose,Please enter your Statement of purpose,paragraph,open_text,15,Statement of purpose
+[multiple_choice] Enter your year of study*,Enter your year of study*,multiple_choice,year_of_study,6,Enter your year of study
+[dropdown] Number Of Projects Completed,Number Of Projects Completed,dropdown,unsupported,16,Number of projects completed
+[checkboxes] 10. Residence state,10. Residence state,checkboxes,state,10,Residence state
+[dropdown] Contact Email *,Contact Email *,dropdown,email,1,Contact email
+[dropdown] Current acdaemic year (required),Current acdaemic year (required),dropdown,year_of_study,6,Current academic year
+[short_text] course undertaken (required),course undertaken (required),short_text,degree,4,Course undertaken
+[multiple_choice] CAN YOU ATTEND THE INTERVIEW OFFLINE?,CAN YOU ATTEND THE INTERVIEW OFFLINE?,multiple_choice,unsupported,16,Can you attend the interview offline?
+[paragraph] Enter Tell us why you are passionate about technology,Enter Tell us why you are passionate about technology,paragraph,open_text,15,Tell us why you are passionate about technology
+[dropdown] Please enter your Stream of study,Please enter your Stream of study,dropdown,branch,5,Stream of study
+[short_text] 13.  Time slot,13.  Time slot,short_text,unsupported,16,Time slot
+[dropdown] Professional skills *,Professional skills *,dropdown,skills,13,Professional skills
+[paragraph] 8. why do you want to be part of our club?,8. why do you want to be part of our club?,paragraph,open_text,15,Why do you want to be part of our club?
+[short_text] Affiliated college,Affiliated college,short_text,college,3,Affiliated college
+[short_text] 10. What are your career goals?,10. What are your career goals?,short_text,open_text,15,What are your career goals?
+[multiple_choice] Your Git profile link,Your Git profile link,multiple_choice,github,11,Git profile link
+[short_text] Enter Relgiion,Enter Relgiion,short_text,unsupported,16,Religion
+[short_text] why do you want to be part of our club?,why do you want to be part of our club?,short_text,open_text,15,Why do you want to be part of our club?
+[dropdown] 10. What is your CGPA?,10. What is your CGPA?,dropdown,cgpa,8,What is your CGPA?
+[short_text] Languages And Frameworks Known,Languages And Frameworks Known,short_text,skills,13,Languages and frameworks known
+[paragraph] Why do you think you are the right candidate?,Why do you think you are the right candidate?,paragraph,open_text,15,Why do you think you are the right candidate?
+[short_text] University Name,University Name,short_text,college,3,University Name
+[dropdown] Batch,Batch,dropdown,graduation_year,7,Batch
+[short_text] Enter Birth date,Enter Birth date,short_text,unsupported,16,Birth date
+[multiple_choice] Please enter your GitHub page,Please enter your GitHub page,multiple_choice,github,11,GitHub page
+[dropdown] Enter Batch,Enter Batch,dropdown,graduation_year,7,Batch
+[paragraph] Write about your previous internship experience,Write about your previous internship experience,paragraph,open_text,15,Write about your previous internship experience
+[multiple_choice] 13. Enter your Current city of residence,13. Enter your Current city of residence,multiple_choice,city,9,Current city of residence
+[short_text] LINKEDIN ID LINK,LINKEDIN ID LINK,short_text,linkedin,12,LinkedIn Id link
+[short_text] Referred  by,Referred  by,short_text,unsupported,16,Referred by
+[short_text] GitHub  reposiotry profile link *,GitHub  reposiotry profile link *,short_text,github,11,GitHub repository profile link
+[dropdown] 3. year in which you will graudate,3. year in which you will graudate,dropdown,graduation_year,7,Year in which you will graduate
+[checkboxes] CGPA (Scale 10) (required),CGPA (Scale 10) (required),checkboxes,cgpa,8,CGPA (Scale 10)
+[short_text] GitHub / Git profile link,GitHub / Git profile link,short_text,github,11,GitHub / Git profile link
+[short_text] Git profile link,Git profile link,short_text,github,11,Git profile link
+[multiple_choice] Which year are you currently studying?,Which year are you currently studying?,multiple_choice,year_of_study,6,Which year are you currently studying?
+[short_text] Expected sitpend,Expected sitpend,short_text,unsupported,16,Expected stipend
+[multiple_choice] Number of projects completed,Number of projects completed,multiple_choice,unsupported,16,Number of projects completed
+[multiple_choice] Job Role,Job Role,multiple_choice,target_role,14,Job Role
+[multiple_choice] Enter Present state of residence*,Enter Present state of residence*,multiple_choice,state,10,Present state of residence
+[paragraph] Enter your Brief introduction about yourself,Enter your Brief introduction about yourself,paragraph,open_text,15,Brief introduction about yourself
+[short_text] Your Source of information *,Your Source of information *,short_text,unsupported,16,Source of information
+[short_text] Please enter your Signature,Please enter your Signature,short_text,unsupported,16,Signature
+[short_text] Please enter your Coupon code *,Please enter your Coupon code *,short_text,unsupported,16,Coupon code
+[short_text] Registered Mobile Number,Registered Mobile Number,short_text,phone,2,Registered mobile number
+[short_text] Your Year of completion,Your Year of completion,short_text,graduation_year,7,Year of completion
+[dropdown] Your Course doing,Your Course doing,dropdown,degree,4,Course doing
+[short_text] What are your hobbies and interests?,What are your hobbies and interests?,short_text,open_text,15,What are your hobbies and interests?
+[checkboxes] Your Valid email address*,Your Valid email address*,checkboxes,email,1,Valid email address
+[short_text] Hackathon problem statement ID,Hackathon problem statement ID,short_text,unsupported,16,Hackathon problem statement ID
+[short_text] 4. Please enter your Discpiline of study *,4. Please enter your Discpiline of study *,short_text,branch,5,Discipline of study
+[short_text] District *,District *,short_text,unsupported,16,District
+[short_text] Can you attend the interview offline?,Can you attend the interview offline?,short_text,unsupported,16,Can you attend the interview offline?
+[short_text] Scholarships received,Scholarships received,short_text,unsupported,16,Scholarships received
+[paragraph] 9.  Your contact number as per records,9.  Your contact number as per records,paragraph,phone,2,Your contact number
+[checkboxes] Year of completion,Year of completion,checkboxes,graduation_year,7,Year of completion
+[short_text] Position name,Position name,short_text,target_role,14,Position name
+[checkboxes] 7 12th marks,7 12th marks,checkboxes,unsupported,16,12th marks
+[checkboxes] Please Enter Your Emergency Contact Number :,Please Enter Your Emergency Contact Number :,checkboxes,unsupported,16,Emergency contact number
+[multiple_choice] Enter Year (Current),Enter Year (Current),multiple_choice,year_of_study,6,Year (Current)
+[multiple_choice] Linked In link,Linked In link,multiple_choice,linkedin,12,Linked In link
+[short_text] Linkedin Account Url (Required),Linkedin Account Url (Required),short_text,linkedin,12,LinkedIn account URL
+[short_text] Expected stipend,Expected stipend,short_text,unsupported,16,Expected stipend
+[short_text] Enter your Current academic year *,Enter your Current academic year *,short_text,year_of_study,6,Current academic year
+[short_text] Candidate Name,Candidate Name,short_text,full_name,0,Candidate Name
+[short_text] Enter your Refererd by,Enter your Refererd by,short_text,unsupported,16,Referred by
+[multiple_choice] 5. Please enter your Team name*,5. Please enter your Team name*,multiple_choice,unsupported,16,Team name
+[short_text] name of your university or college,name of your university or college,short_text,college,3,Name of your university or college
+[multiple_choice] Add Your Linkedin Profile,Add Your Linkedin Profile,multiple_choice,linkedin,12,Add your LinkedIn profile
+[paragraph] Where do you see yourself in 5 years? as per records,Where do you see yourself in 5 years? as per records,paragraph,open_text,15,Where do you see yourself in 5 years?
+[short_text] Please enter your Please provide your email *,Please enter your Please provide your email *,short_text,email,1,Please provide your email
+[short_text] Valid email address,Valid email address,short_text,email,1,Valid email address
+[short_text] Year of studying,Year of studying,short_text,year_of_study,6,Year of studying
+[checkboxes] Enter Academic qualfiication,Enter Academic qualfiication,checkboxes,degree,4,Academic qualification
+[short_text] Enter Your name please,Enter Your name please,short_text,full_name,0,Your name please
+[dropdown] 1. Declaration,1. Declaration,dropdown,unsupported,16,Declaration
+[multiple_choice] degree completion year *,degree completion year *,multiple_choice,graduation_year,7,Degree completion year
+[short_text] Your Applied position,Your Applied position,short_text,target_role,14,Applied position
+[paragraph] GitHub  /  Git profile link,GitHub  /  Git profile link,paragraph,github,11,GitHub / Git profile link
+[short_text] Overall GPA,Overall GPA,short_text,cgpa,8,Overall GPA
+[short_text] 8.  LinkedIn Profile,8.  LinkedIn Profile,short_text,linkedin,12,LinkedIn Profile
+[short_text] 15. LinkedIn URL,15. LinkedIn URL,short_text,linkedin,12,LinkedIn URL
+[short_text] Why do you think you are the right candidate? as per records,Why do you think you are the right candidate? as per records,short_text,open_text,15,Why do you think you are the right candidate?
+[dropdown] Current degree *,Current degree *,dropdown,degree,4,Current degree
+[short_text] 15 Your email ID for registration,15 Your email ID for registration,short_text,email,1,Your email ID for registration
+[short_text] PREFERRED INTERNSHIP ROLE,PREFERRED INTERNSHIP ROLE,short_text,target_role,14,Preferred internship role
+[multiple_choice] Course undertaken,Course undertaken,multiple_choice,degree,4,Course undertaken
+[multiple_choice] Your Number Of Participants,Your Number Of Participants,multiple_choice,unsupported,16,Number of participants
+[paragraph] Statement of purpose,Statement of purpose,paragraph,open_text,15,Statement of purpose
+[dropdown] Mob. No.,Mob. No.,dropdown,phone,2,Mob. No.
+[dropdown] WHAT SHOULD WE CALL YOU? (FULL NAME) *,WHAT SHOULD WE CALL YOU? (FULL NAME) *,dropdown,full_name,0,What should we call you? (full name)
+[dropdown] Course doing,Course doing,dropdown,degree,4,Course doing
+[multiple_choice] Email for correspondence,Email for correspondence,multiple_choice,email,1,Email for correspondence
+[dropdown] Role you are applying for,Role you are applying for,dropdown,target_role,14,Role you are applying for
+[dropdown] GitHub  /  Git proflie link,GitHub  /  Git proflie link,dropdown,github,11,GitHub / Git profile link
+[short_text] Stream Of Study *,Stream Of Study *,short_text,branch,5,Stream of study
+[dropdown] Current academic year,Current academic year,dropdown,year_of_study,6,Current academic year
+[checkboxes] Contact email,Contact email,checkboxes,email,1,Contact email
+[short_text] 3. State of living,3. State of living,short_text,state,10,State of living
+[short_text] Enter your Location,Enter your Location,short_text,city,9,Location
+[multiple_choice] Enter your Graduating year,Enter your Graduating year,multiple_choice,graduation_year,7,Graduating year
+[dropdown] Enter Position name,Enter Position name,dropdown,target_role,14,Position name
+[checkboxes] WHICH SKILLS DO YOU HAVE?,WHICH SKILLS DO YOU HAVE?,checkboxes,skills,13,Which skills do you have?
+[short_text] Preferred time slot*,Preferred time slot*,short_text,unsupported,16,Preferred time slot
+[paragraph] 2. GPA *,2. GPA *,paragraph,cgpa,8,GPA
+[short_text] Enter your Year of studying,Enter your Year of studying,short_text,year_of_study,6,Year of studying
+[short_text] Candidate's branch (required),Candidate's branch (required),short_text,branch,5,Candidate's branch
+[multiple_choice] Your  12th marks,Your  12th marks,multiple_choice,unsupported,16,12th marks
+[short_text] LinkedIn Profile Link :,LinkedIn Profile Link :,short_text,linkedin,12,LinkedIn Profile Link
+[multiple_choice] Select role,Select role,multiple_choice,target_role,14,Select role
+[multiple_choice] educational institution,educational institution,multiple_choice,college,3,Educational Institution
+[short_text] Your JEE rank,Your JEE rank,short_text,unsupported,16,JEE rank
+[dropdown] 2. LinkedIn URL,2. LinkedIn URL,dropdown,linkedin,12,LinkedIn URL
+[multiple_choice] Enter your full name *,Enter your full name *,multiple_choice,full_name,0,Enter your full name
+[short_text] Landmark,Landmark,short_text,unsupported,16,Landmark
+[dropdown] Are You Currently Employed?,Are You Currently Employed?,dropdown,unsupported,16,Are you currently employed?
+[multiple_choice] Contact Number,Contact Number,multiple_choice,phone,2,Contact Number
+[dropdown] Your Year (Current),Your Year (Current),dropdown,year_of_study,6,Year (Current)
+[dropdown] 2 Enter Valid email address,2 Enter Valid email address,dropdown,email,1,Valid email address
+[short_text] Why do you want to be part of our club?,Why do you want to be part of our club?,short_text,open_text,15,Why do you want to be part of our club?
+[checkboxes] YOUR  TECHNICAL SKILLS,YOUR  TECHNICAL SKILLS,checkboxes,skills,13,Your technical skills
+[checkboxes] Which  skills do you have?,Which  skills do you have?,checkboxes,skills,13,Which skills do you have?
+[short_text] 14. ENTER APPLICANT GITHUB PROFILE,14. ENTER APPLICANT GITHUB PROFILE,short_text,github,11,Applicant GitHub profile
+[multiple_choice] Contact  no. of the candidate,Contact  no. of the candidate,multiple_choice,phone,2,Contact no. of the candidate
+[multiple_choice] State Of Living,State Of Living,multiple_choice,state,10,State of living
+[short_text] JEE rank,JEE rank,short_text,unsupported,16,JEE rank
+[checkboxes] your present state of residence,your present state of residence,checkboxes,state,10,Present state of residence
+[dropdown] Year of copmletion *,Year of copmletion *,dropdown,graduation_year,7,Year of completion
+[multiple_choice] Please enter your What should we call you? (full name),Please enter your What should we call you? (full name),multiple_choice,full_name,0,What should we call you? (full name)
+[multiple_choice] Enter your City you are currently in,Enter your City you are currently in,multiple_choice,city,9,City you are currently in
+[paragraph] UPI ID,UPI ID,paragraph,unsupported,16,UPI ID
+[multiple_choice] GIT PROFILE LINK,GIT PROFILE LINK,multiple_choice,github,11,Git profile link
+[dropdown] Your CGPA (on a scale of 10),Your CGPA (on a scale of 10),dropdown,cgpa,8,CGPA (on a scale of 10)
+[dropdown] student's branch,student's branch,dropdown,branch,5,Student's branch
+[dropdown] Your Zip code*,Your Zip code*,dropdown,unsupported,16,Zip code
+[multiple_choice] Domain of interest,Domain of interest,multiple_choice,target_role,14,Domain of interest
+[multiple_choice] Vehicle number,Vehicle number,multiple_choice,unsupported,16,Vehicle number
+[short_text] Brief introduction about yourself,Brief introduction about yourself,short_text,open_text,15,Brief introduction about yourself
+[paragraph] Year of completion :,Year of completion :,paragraph,graduation_year,7,Year of completion
+[short_text] Jee Rank,Jee Rank,short_text,unsupported,16,JEE rank
+[dropdown] 4. Are you currenlty employed?,4. Are you currenlty employed?,dropdown,unsupported,16,Are you currently employed?
+[short_text] Core branch *,Core branch *,short_text,branch,5,Core branch
+[short_text] Job Role :,Job Role :,short_text,target_role,14,Job Role
+[short_text] Why  do you want to be part of our club?(required),Why  do you want to be part of our club?(required),short_text,open_text,15,Why do you want to be part of our club?
+[short_text] Official  email addressas per records,Official  email addressas per records,short_text,email,1,Official email address
+[checkboxes] job  role *,job  role *,checkboxes,target_role,14,Job Role
+[checkboxes] Are you currently employed?,Are you currently employed?,checkboxes,unsupported,16,Are you currently employed?
+[multiple_choice] Academic batch,Academic batch,multiple_choice,graduation_year,7,Academic batch
+[short_text] Your Your good name *,Your Your good name *,short_text,full_name,0,Your good name
+[short_text] City you are currently in *,City you are currently in *,short_text,city,9,City you are currently in
+[dropdown] primary skills,primary skills,dropdown,skills,13,Primary skills
+[dropdown] Candidate's branch,Candidate's branch,dropdown,branch,5,Candidate's branch
+[short_text] CGPA in B.Tech,CGPA in B.Tech,short_text,cgpa,8,CGPA in B.Tech
+[multiple_choice] Core  branch,Core  branch,multiple_choice,branch,5,Core branch
+[dropdown] Enter your Git profile link,Enter your Git profile link,dropdown,github,11,Git profile link
+[multiple_choice] Enter Please share your LinkedIn profile,Enter Please share your LinkedIn profile,multiple_choice,linkedin,12,Please share your LinkedIn profile
+[multiple_choice] applied position,applied position,multiple_choice,target_role,14,Applied position
+[multiple_choice] Residence state *,Residence state *,multiple_choice,state,10,Residence state
+[multiple_choice] City of living,City of living,multiple_choice,city,9,City of living
+[paragraph] Your Course undertaken,Your Course undertaken,paragraph,degree,4,Course undertaken
+[short_text] Enter Name of your university or college,Enter Name of your university or college,short_text,college,3,Name of your university or college
+[multiple_choice] GitHub page,GitHub page,multiple_choice,github,11,GitHub page
+[short_text] Registered mobile number *,Registered mobile number *,short_text,phone,2,Registered mobile number
+[short_text] Enter your Primary skills *,Enter your Primary skills *,short_text,skills,13,Primary skills
+[dropdown] Your Your state,Your Your state,dropdown,state,10,Your state
+[multiple_choice] year at college,year at college,multiple_choice,year_of_study,6,Year at college
+[dropdown] Position Applied For,Position Applied For,dropdown,target_role,14,Position applied for
+[short_text] 2. Enter your college name :,2. Enter your college name :,short_text,college,3,Enter your college name
+[short_text] TIME SLOT,TIME SLOT,short_text,unsupported,16,Time slot
+[short_text] Your good name,Your good name,short_text,full_name,0,Your good name
+[short_text] Your  phone number,Your  phone number,short_text,phone,2,Your phone number
+[multiple_choice] Educational  Institution,Educational  Institution,multiple_choice,college,3,Educational Institution
+[short_text] 11. GPA,11. GPA,short_text,cgpa,8,GPA
+[checkboxes] Programming languages *,Programming languages *,checkboxes,skills,13,Programming languages
+[short_text] 14 Affiliated college,14 Affiliated college,short_text,college,3,Affiliated college

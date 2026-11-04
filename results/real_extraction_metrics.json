@@ -1,0 +1,126 @@
+{
+ "n_with_gold": 14,
+ "n_scored": 13,
+ "scanned_excluded": 1,
+ "city_state_not_in_text_excluded": {
+  "city": 0,
+  "state": 3,
+  "graduation_year": 1
+ },
+ "fields": {
+  "full_name": {
+   "n_gold": 13,
+   "filled": 13,
+   "correct": 13,
+   "extra": 0,
+   "accuracy": 1.0,
+   "precision": 1.0,
+   "rules_only_accuracy": 0.0
+  },
+  "email": {
+   "n_gold": 13,
+   "filled": 13,
+   "correct": 13,
+   "extra": 0,
+   "accuracy": 1.0,
+   "precision": 1.0,
+   "rules_only_accuracy": 1.0
+  },
+  "phone": {
+   "n_gold": 13,
+   "filled": 13,
+   "correct": 13,
+   "extra": 0,
+   "accuracy": 1.0,
+   "precision": 1.0,
+   "rules_only_accuracy": 1.0
+  },
+  "college": {
+   "n_gold": 13,
+   "filled": 13,
+   "correct": 13,
+   "extra": 0,
+   "accuracy": 1.0,
+   "precision": 1.0,
+   "rules_only_accuracy": 0.0
+  },
+  "degree": {
+   "n_gold": 13,
+   "filled": 13,
+   "correct": 13,
+   "extra": 0,
+   "accuracy": 1.0,
+   "precision": 1.0,
+   "rules_only_accuracy": 0.0
+  },
+  "branch": {
+   "n_gold": 13,
+   "filled": 13,
+   "correct": 13,
+   "extra": 0,
+   "accuracy": 1.0,
+   "precision": 1.0,
+   "rules_only_accuracy": 0.0
+  },
+  "graduation_year": {
+   "n_gold": 8,
+   "filled": 8,
+   "correct": 8,
+   "extra": 0,
+   "accuracy": 1.0,
+   "precision": 1.0,
+   "rules_only_accuracy": 1.0
+  },
+  "cgpa": {
+   "n_gold": 12,
+   "filled": 12,
+   "correct": 12,
+   "extra": 0,
+   "accuracy": 1.0,
+   "precision": 1.0,
+   "rules_only_accuracy": 1.0
+  },
+  "city": {
+   "n_gold": 7,
+   "filled": 7,
+   "correct": 7,
+   "extra": 0,
+   "accuracy": 1.0,
+   "precision": 1.0,
+   "rules_only_accuracy": 0.0
+  },
+  "state": {
+   "n_gold": 8,
+   "filled": 8,
+   "correct": 8,
+   "extra": 0,
+   "accuracy": 1.0,
+   "precision": 1.0,
+   "rules_only_accuracy": 0.0
+  },
+  "github": {
+   "n_gold": 9,
+   "filled": 9,
+   "correct": 9,
+   "extra": 0,
+   "accuracy": 1.0,
+   "precision": 1.0,
+   "rules_only_accuracy": 1.0
+  },
+  "linkedin": {
+   "n_gold": 11,
+   "filled": 11,
+   "correct": 11,
+   "extra": 0,
+   "accuracy": 1.0,
+   "precision": 1.0,
+   "rules_only_accuracy": 1.0
+  }
+ },
+ "skills": {
+  "n": 13,
+  "mean_recall": 0.815157027850018,
+  "mean_precision": 0.6192507571566785
+ },
+ "mean_field_accuracy": 1.0
+}

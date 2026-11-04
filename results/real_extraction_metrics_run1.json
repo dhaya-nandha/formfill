@@ -1,0 +1,119 @@
+{
+ "n_resumes": 14,
+ "fields": {
+  "full_name": {
+   "n_gold": 14,
+   "filled": 13,
+   "correct": 13,
+   "extra": 0,
+   "accuracy": 0.9285714285714286,
+   "precision": 1.0,
+   "rules_only_accuracy": 0.0
+  },
+  "email": {
+   "n_gold": 14,
+   "filled": 13,
+   "correct": 13,
+   "extra": 0,
+   "accuracy": 0.9285714285714286,
+   "precision": 1.0,
+   "rules_only_accuracy": 0.9285714285714286
+  },
+  "phone": {
+   "n_gold": 13,
+   "filled": 13,
+   "correct": 13,
+   "extra": 0,
+   "accuracy": 1.0,
+   "precision": 1.0,
+   "rules_only_accuracy": 1.0
+  },
+  "college": {
+   "n_gold": 14,
+   "filled": 13,
+   "correct": 11,
+   "extra": 0,
+   "accuracy": 0.7857142857142857,
+   "precision": 0.8461538461538461,
+   "rules_only_accuracy": 0.0
+  },
+  "degree": {
+   "n_gold": 14,
+   "filled": 13,
+   "correct": 13,
+   "extra": 0,
+   "accuracy": 0.9285714285714286,
+   "precision": 1.0,
+   "rules_only_accuracy": 0.0
+  },
+  "branch": {
+   "n_gold": 14,
+   "filled": 13,
+   "correct": 11,
+   "extra": 0,
+   "accuracy": 0.7857142857142857,
+   "precision": 0.8461538461538461,
+   "rules_only_accuracy": 0.0
+  },
+  "graduation_year": {
+   "n_gold": 10,
+   "filled": 8,
+   "correct": 8,
+   "extra": 2,
+   "accuracy": 0.8,
+   "precision": 1.0,
+   "rules_only_accuracy": 0.8
+  },
+  "cgpa": {
+   "n_gold": 13,
+   "filled": 12,
+   "correct": 10,
+   "extra": 0,
+   "accuracy": 0.7692307692307693,
+   "precision": 0.8333333333333334,
+   "rules_only_accuracy": 0.7692307692307693
+  },
+  "city": {
+   "n_gold": 5,
+   "filled": 5,
+   "correct": 5,
+   "extra": 3,
+   "accuracy": 1.0,
+   "precision": 1.0,
+   "rules_only_accuracy": 0.0
+  },
+  "state": {
+   "n_gold": 11,
+   "filled": 7,
+   "correct": 7,
+   "extra": 0,
+   "accuracy": 0.6363636363636364,
+   "precision": 1.0,
+   "rules_only_accuracy": 0.0
+  },
+  "github": {
+   "n_gold": 5,
+   "filled": 5,
+   "correct": 5,
+   "extra": 4,
+   "accuracy": 1.0,
+   "precision": 1.0,
+   "rules_only_accuracy": 1.0
+  },
+  "linkedin": {
+   "n_gold": 5,
+   "filled": 5,
+   "correct": 5,
+   "extra": 6,
+   "accuracy": 1.0,
+   "precision": 1.0,
+   "rules_only_accuracy": 1.0
+  }
+ },
+ "skills": {
+  "n": 14,
+  "mean_recall": 0.756931525860731,
+  "mean_precision": 0.5750185602169158
+ },
+ "mean_field_accuracy": 0.8802281052281052
+}

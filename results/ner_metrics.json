@@ -1,0 +1,86 @@
+{
+ "note": "SYNTHETIC data only",
+ "best_dev_entity_f1": 0.9946913708754032,
+ "dev": {
+  "entity_f1": 0.9946913708754032,
+  "per_type": {
+   "BRANCH": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 221
+   },
+   "COLLEGE": {
+    "precision": 0.9401993355481728,
+    "recall": 0.9433333333333334,
+    "f1-score": 0.9417637271214643,
+    "support": 300
+   },
+   "DEGREE": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 300
+   },
+   "LOCATION": {
+    "precision": 0.9405204460966543,
+    "recall": 1.0,
+    "f1-score": 0.9693486590038314,
+    "support": 253
+   },
+   "NAME": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 300
+   },
+   "SKILL": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 3421
+   }
+  }
+ },
+ "test": {
+  "entity_f1": 0.999235223424014,
+  "per_type": {
+   "BRANCH": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 217
+   },
+   "COLLEGE": {
+    "precision": 1.0,
+    "recall": 0.9866666666666667,
+    "f1-score": 0.9932885906040269,
+    "support": 300
+   },
+   "DEGREE": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 300
+   },
+   "LOCATION": {
+    "precision": 0.9886792452830189,
+    "recall": 1.0,
+    "f1-score": 0.9943074003795066,
+    "support": 262
+   },
+   "NAME": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 300
+   },
+   "SKILL": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 3198
+   }
+  }
+ }
+}

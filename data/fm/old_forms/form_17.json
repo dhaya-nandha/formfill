@@ -1,0 +1,126 @@
+{
+  "name": "form_17",
+  "questions": [
+    {
+      "entry_id": "entry.17001",
+      "question": "Candidate Name",
+      "type": "short_text",
+      "options": [],
+      "required": true
+    },
+    {
+      "entry_id": "entry.17002",
+      "question": "Mail address",
+      "type": "short_text",
+      "options": [],
+      "required": true
+    },
+    {
+      "entry_id": "entry.17003",
+      "question": "Mobile Number",
+      "type": "short_text",
+      "options": [],
+      "required": true
+    },
+    {
+      "entry_id": "entry.17004",
+      "question": "State",
+      "type": "short_text",
+      "options": [],
+      "required": true
+    },
+    {
+      "entry_id": "entry.17005",
+      "question": "Qualification",
+      "type": "short_text",
+      "options": [],
+      "required": true
+    },
+    {
+      "entry_id": "entry.17006",
+      "question": "Passing out year",
+      "type": "dropdown",
+      "options": [
+        "2025",
+        "2026",
+        "2027",
+        "2028"
+      ],
+      "required": true
+    },
+    {
+      "entry_id": "entry.17007",
+      "question": "Preferred work mode",
+      "type": "dropdown",
+      "options": [
+        "Fully remote",
+        "Hybrid",
+        "Onsite"
+      ],
+      "required": true
+    },
+    {
+      "entry_id": "entry.17008",
+      "question": "Notice period",
+      "type": "dropdown",
+      "options": [
+        "Immediate",
+        "15 days",
+        "30 days",
+        "60 days"
+      ],
+      "required": false
+    },
+    {
+      "entry_id": "entry.17009",
+      "question": "Expected CTC",
+      "type": "short_text",
+      "options": [],
+      "required": false
+    },
+    {
+      "entry_id": "entry.17010",
+      "question": "GitHub URL",
+      "type": "short_text",
+      "options": [],
+      "required": false
+    },
+    {
+      "entry_id": "entry.17011",
+      "question": "Tech stack",
+      "type": "checkboxes",
+      "options": [
+        "Python",
+        "Java",
+        "Go",
+        "Ruby",
+        "Scala"
+      ],
+      "required": false
+    },
+    {
+      "entry_id": "entry.17012",
+      "question": "Tell us about yourself.",
+      "type": "paragraph",
+      "options": [],
+      "required": true
+    }
+  ],
+  "expected": {
+    "entry.17001": "Arjun Reddy Kolla",
+    "entry.17002": "arjun.kolla@example.com",
+    "entry.17003": "9000011111",
+    "entry.17004": "Andhra Pradesh",
+    "entry.17005": "B.Tech Computer Science and Engineering (AI/ML)",
+    "entry.17006": "2027",
+    "entry.17007": null,
+    "entry.17008": null,
+    "entry.17009": null,
+    "entry.17010": "https://github.com/arjun-kolla-test",
+    "entry.17011": [
+      "Python",
+      "Java"
+    ],
+    "entry.17012": "__ANY__"
+  }
+}

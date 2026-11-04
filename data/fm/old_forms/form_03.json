@@ -1,0 +1,99 @@
+{
+  "name": "form_03",
+  "questions": [
+    {
+      "entry_id": "entry.3001",
+      "question": "Name of the applicant",
+      "type": "short_text",
+      "options": [],
+      "required": true
+    },
+    {
+      "entry_id": "entry.3002",
+      "question": "Contact No.",
+      "type": "short_text",
+      "options": [],
+      "required": true
+    },
+    {
+      "entry_id": "entry.3003",
+      "question": "Institute",
+      "type": "short_text",
+      "options": [],
+      "required": true
+    },
+    {
+      "entry_id": "entry.3004",
+      "question": "Passing out year",
+      "type": "dropdown",
+      "options": [
+        "2025",
+        "2026",
+        "2027",
+        "2028"
+      ],
+      "required": true
+    },
+    {
+      "entry_id": "entry.3005",
+      "question": "Current CGPA (out of 10)",
+      "type": "short_text",
+      "options": [],
+      "required": true
+    },
+    {
+      "entry_id": "entry.3006",
+      "question": "10th percentage",
+      "type": "short_text",
+      "options": [],
+      "required": false
+    },
+    {
+      "entry_id": "entry.3007",
+      "question": "Aadhaar number",
+      "type": "short_text",
+      "options": [],
+      "required": true
+    },
+    {
+      "entry_id": "entry.3008",
+      "question": "Are you available for 6 months?",
+      "type": "multiple_choice",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "required": true
+    },
+    {
+      "entry_id": "entry.3009",
+      "question": "Position",
+      "type": "multiple_choice",
+      "options": [
+        "AI Engineer",
+        "Software Tester",
+        "Support Engineer"
+      ],
+      "required": true
+    },
+    {
+      "entry_id": "entry.3010",
+      "question": "Tell us about yourself.",
+      "type": "paragraph",
+      "options": [],
+      "required": true
+    }
+  ],
+  "expected": {
+    "entry.3001": "Arjun Reddy Kolla",
+    "entry.3002": "9000011111",
+    "entry.3003": "Sri Venkateswara Institute of Technology",
+    "entry.3004": "2027",
+    "entry.3005": "8.4",
+    "entry.3006": null,
+    "entry.3007": null,
+    "entry.3008": null,
+    "entry.3009": "AI Engineer",
+    "entry.3010": "__ANY__"
+  }
+}

@@ -1,0 +1,22 @@
+{
+ "train_rows_before": 4758,
+ "val": {
+  "rows": 672,
+  "exact_overlap_before": 11,
+  "near_overlap_before": 50,
+  "label_conflicts": 0,
+  "exact_overlap_after": 0,
+  "near_overlap_after": 0
+ },
+ "test_a": {
+  "rows": 116,
+  "exact_overlap_before": 62,
+  "near_overlap_before": 67,
+  "label_conflicts": 0,
+  "exact_overlap_after": 0,
+  "near_overlap_after": 0
+ },
+ "train_rows_removed": 442,
+ "train_internal_label_conflicts": 0,
+ "train_rows_after": 4316
+}

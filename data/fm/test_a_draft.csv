@@ -1,0 +1,227 @@
+form,question,qtype,expected,label
+form_00,Candidate Name,short_text,"""Arjun Reddy Kolla""",full_name
+form_00,Contact No.,short_text,"""9000011111""",phone
+form_00,Father's Name,short_text,null,unsupported
+form_00,Institute,short_text,"""Sri Venkateswara Institute of Technology""",college
+form_00,Current CGPA (out of 10),short_text,"""8.4""",cgpa
+form_00,Role Applied For,multiple_choice,"""AI Engineer""",target_role
+form_00,Technical Skills,checkboxes,"[""Python"", ""Machine Learning"", ""SQL""]",skills
+form_00,Expected Stipend (per month),short_text,null,unsupported
+form_00,Preferred Work Mode,dropdown,null,unsupported
+form_00,Why do you want this internship?,paragraph,"""__ANY__""",open_text
+form_01,Full Name,short_text,"""Arjun Reddy Kolla""",full_name
+form_01,Email,short_text,"""arjun.kolla@example.com""",email
+form_01,Phone,short_text,"""9000011111""",phone
+form_01,College,short_text,"""Sri Venkateswara Institute of Technology""",college
+form_01,Year of study,multiple_choice,"""3rd Year""",year_of_study
+form_01,Skills you are comfortable with,checkboxes,"[""Python"", ""Java""]",skills
+form_01,Father's Name,short_text,null,unsupported
+form_01,Preferred work mode,dropdown,null,unsupported
+form_01,Expected stipend per month,short_text,null,unsupported
+form_01,Why do you want this internship?,paragraph,"""__ANY__""",open_text
+form_01,GitHub profile link,short_text,"""https://github.com/arjun-kolla-test""",github
+form_02,Candidate Name,short_text,"""Arjun Reddy Kolla""",full_name
+form_02,Mail address,short_text,"""arjun.kolla@example.com""",email
+form_02,Mobile Number,short_text,"""9000011111""",phone
+form_02,Course pursuing,dropdown,"""B.Tech Computer Science and Engineering (AI/ML)""",degree
+form_02,Aggregate CGPA,short_text,"""8.4""",cgpa
+form_02,Which role are you applying for?,multiple_choice,"""ML Engineer""",target_role
+form_02,Tools you have used,checkboxes,"[""SQL"", ""Git""]",skills
+form_02,Notice period,dropdown,null,unsupported
+form_02,Languages known,checkboxes,null,unsupported
+form_02,Describe a project you have worked on.,paragraph,"""__ANY__""",open_text
+form_02,LinkedIn profile,short_text,"""https://www.linkedin.com/in/arjun-kolla-test""",linkedin
+form_03,Name of the applicant,short_text,"""Arjun Reddy Kolla""",full_name
+form_03,Contact No.,short_text,"""9000011111""",phone
+form_03,Institute,short_text,"""Sri Venkateswara Institute of Technology""",college
+form_03,Passing out year,dropdown,"""2027""",graduation_year
+form_03,Current CGPA (out of 10),short_text,"""8.4""",cgpa
+form_03,10th percentage,short_text,null,unsupported
+form_03,Aadhaar number,short_text,null,unsupported
+form_03,Are you available for 6 months?,multiple_choice,null,unsupported
+form_03,Position,multiple_choice,"""AI Engineer""",target_role
+form_03,Tell us about yourself.,paragraph,"""__ANY__""",open_text
+form_04,Your name,short_text,"""Arjun Reddy Kolla""",full_name
+form_04,Email ID,short_text,"""arjun.kolla@example.com""",email
+form_04,University / College name,short_text,"""Sri Venkateswara Institute of Technology""",college
+form_04,Which year are you in?,dropdown,"""3rd Year""",year_of_study
+form_04,Team name,short_text,null,unsupported
+form_04,Preferred track,dropdown,null,unsupported
+form_04,T-shirt size,dropdown,null,unsupported
+form_04,Programming languages you know,checkboxes,"[""Python"", ""Java""]",skills
+form_04,GitHub URL,short_text,"""https://github.com/arjun-kolla-test""",github
+form_04,What problem would you like to solve at the hackathon?,paragraph,"""__ANY__""",open_text
+form_05,Full Name,short_text,"""Arjun Reddy Kolla""",full_name
+form_05,Official email,short_text,"""arjun.kolla@example.com""",email
+form_05,Name of your institution,short_text,"""Sri Venkateswara Institute of Technology""",college
+form_05,Program of study,short_text,"""B.Tech Computer Science and Engineering (AI/ML)""",degree
+form_05,Current year,dropdown,"""3rd Year""",year_of_study
+form_05,Research area of interest,dropdown,null,unsupported
+form_05,Do you have any publications?,multiple_choice,null,unsupported
+form_05,Nationality,short_text,null,unsupported
+form_05,Briefly describe your most relevant project.,paragraph,"""__ANY__""",open_text
+form_05,LinkedIn URL,short_text,"""https://www.linkedin.com/in/arjun-kolla-test""",linkedin
+form_05,Current city,short_text,"""Vijayawada""",city
+form_06,Name,short_text,"""Arjun Reddy Kolla""",full_name
+form_06,Phone number,short_text,"""9000011111""",phone
+form_06,Email,short_text,"""arjun.kolla@example.com""",email
+form_06,Location,short_text,"""Vijayawada, Andhra Pradesh""",city
+form_06,Preferred domain,dropdown,"""AI Engineer""",target_role
+form_06,Current salary,short_text,null,unsupported
+form_06,Blood group,dropdown,null,unsupported
+form_06,Are you willing to relocate?,multiple_choice,null,unsupported
+form_06,Skills,checkboxes,"[""SQL"", ""Git""]",skills
+form_06,Why should we pick you?,paragraph,"""__ANY__""",open_text
+form_07,Candidate Name,short_text,"""Arjun Reddy Kolla""",full_name
+form_07,Email ID,short_text,"""arjun.kolla@example.com""",email
+form_07,Mobile Number,short_text,"""9000011111""",phone
+form_07,Qualification,short_text,"""B.Tech Computer Science and Engineering (AI/ML)""",degree
+form_07,Total years of experience,short_text,null,unsupported
+form_07,Portfolio website,short_text,null,unsupported
+form_07,Preferred work mode,multiple_choice,null,unsupported
+form_07,Skills,checkboxes,"[""Python"", ""Machine Learning"", ""SQL""]",skills
+form_07,GitHub URL,short_text,"""https://github.com/arjun-kolla-test""",github
+form_07,Write a short cover letter.,paragraph,"""__ANY__""",open_text
+form_08,Name of the applicant,short_text,"""Arjun Reddy Kolla""",full_name
+form_08,Email,short_text,"""arjun.kolla@example.com""",email
+form_08,Institute,short_text,"""Sri Venkateswara Institute of Technology""",college
+form_08,Course pursuing,short_text,"""B.Tech Computer Science and Engineering (AI/ML)""",degree
+form_08,Batch,dropdown,"""2027""",graduation_year
+form_08,Current CGPA (out of 10),short_text,"""8.4""",cgpa
+form_08,Which role are you applying for?,multiple_choice,"""ML Engineer""",target_role
+form_08,12th percentage,short_text,null,unsupported
+form_08,Gender,dropdown,null,unsupported
+form_08,Age,short_text,null,unsupported
+form_08,Technologies you have worked with,checkboxes,"[""Python"", ""Java""]",skills
+form_08,Why do you want to join this program?,paragraph,"""__ANY__""",open_text
+form_09,Your name,short_text,"""Arjun Reddy Kolla""",full_name
+form_09,Mail address,short_text,"""arjun.kolla@example.com""",email
+form_09,Contact No.,short_text,"""9000011111""",phone
+form_09,College,short_text,"""Sri Venkateswara Institute of Technology""",college
+form_09,Which year are you in?,multiple_choice,"""3rd Year""",year_of_study
+form_09,Graduation year,short_text,"""2027""",graduation_year
+form_09,Are you available for 2 months this summer?,multiple_choice,null,unsupported
+form_09,"List your previous internships, if any.",paragraph,null,unsupported
+form_09,Describe a project you have worked on.,paragraph,"""__ANY__""",open_text
+form_09,GitHub profile link,short_text,"""https://github.com/arjun-kolla-test""",github
+form_10,Full Name,short_text,"""Arjun Reddy Kolla""",full_name
+form_10,Email ID,short_text,"""arjun.kolla@example.com""",email
+form_10,Phone,short_text,"""9000011111""",phone
+form_10,University / College name,short_text,"""Sri Venkateswara Institute of Technology""",college
+form_10,Qualification,dropdown,"""B.Tech Computer Science and Engineering (AI/ML)""",degree
+form_10,Passing out year,short_text,"""2027""",graduation_year
+form_10,CGPA,short_text,"""8.4""",cgpa
+form_10,LinkedIn profile,short_text,"""https://www.linkedin.com/in/arjun-kolla-test""",linkedin
+form_10,Current CTC,short_text,null,unsupported
+form_10,Expected CTC,short_text,null,unsupported
+form_10,Notice period,dropdown,null,unsupported
+form_10,Resume link,short_text,null,unsupported
+form_10,Cover note,paragraph,"""__ANY__""",open_text
+form_11,Candidate Name,short_text,"""Arjun Reddy Kolla""",full_name
+form_11,Official email,short_text,"""arjun.kolla@example.com""",email
+form_11,Mobile Number,short_text,"""9000011111""",phone
+form_11,Institute,short_text,"""Sri Venkateswara Institute of Technology""",college
+form_11,Languages you can code in,checkboxes,"[""Python"", ""Java""]",skills
+form_11,Role applied for,multiple_choice,"""AI Engineer""",target_role
+form_11,Pincode,short_text,null,unsupported
+form_11,Do you have your own laptop?,multiple_choice,null,unsupported
+form_11,Tell us about yourself.,paragraph,"""__ANY__""",open_text
+form_12,Name,short_text,"""Arjun Reddy Kolla""",full_name
+form_12,Email,short_text,"""arjun.kolla@example.com""",email
+form_12,Phone number,short_text,"""9000011111""",phone
+form_12,Name of your institution,short_text,"""Sri Venkateswara Institute of Technology""",college
+form_12,Current year,dropdown,"""3rd Year""",year_of_study
+form_12,Aggregate CGPA,short_text,"""8.4""",cgpa
+form_12,GitHub URL,short_text,"""https://github.com/arjun-kolla-test""",github
+form_12,Which tools have you used?,checkboxes,"[""Python"", ""SQL""]",skills
+form_12,Languages known,checkboxes,null,unsupported
+form_12,Expected stipend,short_text,null,unsupported
+form_12,Passport number,short_text,null,unsupported
+form_12,Describe a project you have worked on.,paragraph,"""__ANY__""",open_text
+form_13,Candidate Name,short_text,"""Arjun Reddy Kolla""",full_name
+form_13,Contact No.,short_text,"""9000011111""",phone
+form_13,College,short_text,"""Sri Venkateswara Institute of Technology""",college
+form_13,Degree,short_text,"""B.Tech Computer Science and Engineering (AI/ML)""",degree
+form_13,Graduation year,multiple_choice,"""2027""",graduation_year
+form_13,CGPA,short_text,"""8.4""",cgpa
+form_13,Preferred work mode,multiple_choice,null,unsupported
+form_13,How did you hear about us?,dropdown,null,unsupported
+form_13,PAN number,short_text,null,unsupported
+form_13,Why do you want this job?,paragraph,"""__ANY__""",open_text
+form_14,Your name,short_text,"""Arjun Reddy Kolla""",full_name
+form_14,Mail address,short_text,"""arjun.kolla@example.com""",email
+form_14,Phone,short_text,"""9000011111""",phone
+form_14,College,short_text,"""Sri Venkateswara Institute of Technology""",college
+form_14,Skills you will bring to the team,checkboxes,"[""Python"", ""Machine Learning""]",skills
+form_14,Github profile link,short_text,"""https://github.com/arjun-kolla-test""",github
+form_14,Which role suits you best?,multiple_choice,"""ML Engineer""",target_role
+form_14,Team size,dropdown,null,unsupported
+form_14,Do you have a team already?,multiple_choice,null,unsupported
+form_14,Do you need accommodation?,multiple_choice,null,unsupported
+form_14,Describe a project you have worked on.,paragraph,"""__ANY__""",open_text
+form_15,Full Name,short_text,"""Arjun Reddy Kolla""",full_name
+form_15,Email ID,short_text,"""arjun.kolla@example.com""",email
+form_15,University / College name,short_text,"""Sri Venkateswara Institute of Technology""",college
+form_15,Program of study,short_text,"""B.Tech Computer Science and Engineering (AI/ML)""",degree
+form_15,Year of study,multiple_choice,"""3rd Year""",year_of_study
+form_15,Current CGPA (out of 10),short_text,"""8.4""",cgpa
+form_15,Nationality,short_text,null,unsupported
+form_15,Area of research interest,dropdown,null,unsupported
+form_15,Do you have any publications?,multiple_choice,null,unsupported
+form_15,Briefly describe a project you have worked on.,paragraph,"""__ANY__""",open_text
+form_15,LinkedIn URL,short_text,"""https://www.linkedin.com/in/arjun-kolla-test""",linkedin
+form_16,Name,short_text,"""Arjun Reddy Kolla""",full_name
+form_16,Phone,short_text,"""9000011111""",phone
+form_16,Mail address,short_text,"""arjun.kolla@example.com""",email
+form_16,City you live in,short_text,"""Vijayawada""",city
+form_16,Position,multiple_choice,"""AI Engineer""",target_role
+form_16,Skills,checkboxes,"[""Python"", ""SQL""]",skills
+form_16,Expected stipend,short_text,null,unsupported
+form_16,Willing to relocate?,multiple_choice,null,unsupported
+form_16,Portfolio website,short_text,null,unsupported
+form_16,Why do you want to join our startup?,paragraph,"""__ANY__""",open_text
+form_17,Candidate Name,short_text,"""Arjun Reddy Kolla""",full_name
+form_17,Mail address,short_text,"""arjun.kolla@example.com""",email
+form_17,Mobile Number,short_text,"""9000011111""",phone
+form_17,State,short_text,"""Andhra Pradesh""",state
+form_17,Qualification,short_text,"""B.Tech Computer Science and Engineering (AI/ML)""",degree
+form_17,Passing out year,dropdown,"""2027""",graduation_year
+form_17,Preferred work mode,dropdown,null,unsupported
+form_17,Notice period,dropdown,null,unsupported
+form_17,Expected CTC,short_text,null,unsupported
+form_17,GitHub URL,short_text,"""https://github.com/arjun-kolla-test""",github
+form_17,Tech stack,checkboxes,"[""Python"", ""Java""]",skills
+form_17,Tell us about yourself.,paragraph,"""__ANY__""",open_text
+form_18,Name of the applicant,short_text,"""Arjun Reddy Kolla""",full_name
+form_18,Email,short_text,"""arjun.kolla@example.com""",email
+form_18,Contact No.,short_text,"""9000011111""",phone
+form_18,Institute,short_text,"""Sri Venkateswara Institute of Technology""",college
+form_18,Which year are you in?,multiple_choice,"""3rd Year""",year_of_study
+form_18,Aggregate CGPA,short_text,"""8.4""",cgpa
+form_18,Role,multiple_choice,"""AI Engineer""",target_role
+form_18,Skills,checkboxes,"[""Python"", ""Machine Learning"", ""SQL""]",skills
+form_18,10th percentage,short_text,null,unsupported
+form_18,Gender,dropdown,null,unsupported
+form_18,Father's Name,short_text,null,unsupported
+form_19,Your name,short_text,"""Arjun Reddy Kolla""",full_name
+form_19,Email ID,short_text,"""arjun.kolla@example.com""",email
+form_19,Phone,short_text,"""9000011111""",phone
+form_19,College,short_text,"""Sri Venkateswara Institute of Technology""",college
+form_19,Course pursuing,dropdown,"""B.Tech Computer Science and Engineering (AI/ML)""",degree
+form_19,Graduation year,short_text,"""2027""",graduation_year
+form_19,Languages known,checkboxes,null,unsupported
+form_19,Resume link,short_text,null,unsupported
+form_19,Describe a project you have worked on.,paragraph,"""__ANY__""",open_text
+form_20,Full Name,short_text,"""Arjun Reddy Kolla""",full_name
+form_20,Official email,short_text,"""arjun.kolla@example.com""",email
+form_20,Mobile Number,short_text,"""9000011111""",phone
+form_20,Name of your institution,short_text,"""Sri Venkateswara Institute of Technology""",college
+form_20,Degree,short_text,"""B.Tech Computer Science and Engineering (AI/ML)""",degree
+form_20,Current CGPA (out of 10),short_text,"""8.4""",cgpa
+form_20,GitHub profile link,short_text,"""https://github.com/arjun-kolla-test""",github
+form_20,LinkedIn profile,short_text,"""https://www.linkedin.com/in/arjun-kolla-test""",linkedin
+form_20,Current salary,short_text,null,unsupported
+form_20,Notice period,multiple_choice,null,unsupported
+form_20,Are you willing to relocate?,multiple_choice,null,unsupported
+form_20,"List your certifications, if any.",paragraph,null,unsupported
+form_20,Why do you want this job?,paragraph,"""__ANY__""",open_text

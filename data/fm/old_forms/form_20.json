@@ -1,0 +1,119 @@
+{
+  "name": "form_20",
+  "questions": [
+    {
+      "entry_id": "entry.20001",
+      "question": "Full Name",
+      "type": "short_text",
+      "options": [],
+      "required": true
+    },
+    {
+      "entry_id": "entry.20002",
+      "question": "Official email",
+      "type": "short_text",
+      "options": [],
+      "required": true
+    },
+    {
+      "entry_id": "entry.20003",
+      "question": "Mobile Number",
+      "type": "short_text",
+      "options": [],
+      "required": true
+    },
+    {
+      "entry_id": "entry.20004",
+      "question": "Name of your institution",
+      "type": "short_text",
+      "options": [],
+      "required": true
+    },
+    {
+      "entry_id": "entry.20005",
+      "question": "Degree",
+      "type": "short_text",
+      "options": [],
+      "required": true
+    },
+    {
+      "entry_id": "entry.20006",
+      "question": "Current CGPA (out of 10)",
+      "type": "short_text",
+      "options": [],
+      "required": true
+    },
+    {
+      "entry_id": "entry.20007",
+      "question": "GitHub profile link",
+      "type": "short_text",
+      "options": [],
+      "required": false
+    },
+    {
+      "entry_id": "entry.20008",
+      "question": "LinkedIn profile",
+      "type": "short_text",
+      "options": [],
+      "required": false
+    },
+    {
+      "entry_id": "entry.20009",
+      "question": "Current salary",
+      "type": "short_text",
+      "options": [],
+      "required": false
+    },
+    {
+      "entry_id": "entry.20010",
+      "question": "Notice period",
+      "type": "multiple_choice",
+      "options": [
+        "Immediate",
+        "15 days",
+        "30 days",
+        "60 days"
+      ],
+      "required": true
+    },
+    {
+      "entry_id": "entry.20011",
+      "question": "Are you willing to relocate?",
+      "type": "multiple_choice",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "required": true
+    },
+    {
+      "entry_id": "entry.20012",
+      "question": "List your certifications, if any.",
+      "type": "paragraph",
+      "options": [],
+      "required": false
+    },
+    {
+      "entry_id": "entry.20013",
+      "question": "Why do you want this job?",
+      "type": "paragraph",
+      "options": [],
+      "required": true
+    }
+  ],
+  "expected": {
+    "entry.20001": "Arjun Reddy Kolla",
+    "entry.20002": "arjun.kolla@example.com",
+    "entry.20003": "9000011111",
+    "entry.20004": "Sri Venkateswara Institute of Technology",
+    "entry.20005": "B.Tech Computer Science and Engineering (AI/ML)",
+    "entry.20006": "8.4",
+    "entry.20007": "https://github.com/arjun-kolla-test",
+    "entry.20008": "https://www.linkedin.com/in/arjun-kolla-test",
+    "entry.20009": null,
+    "entry.20010": null,
+    "entry.20011": null,
+    "entry.20012": null,
+    "entry.20013": "__ANY__"
+  }
+}

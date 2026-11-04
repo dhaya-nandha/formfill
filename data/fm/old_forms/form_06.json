@@ -1,0 +1,109 @@
+{
+  "name": "form_06",
+  "questions": [
+    {
+      "entry_id": "entry.6001",
+      "question": "Name",
+      "type": "short_text",
+      "options": [],
+      "required": true
+    },
+    {
+      "entry_id": "entry.6002",
+      "question": "Phone number",
+      "type": "short_text",
+      "options": [],
+      "required": true
+    },
+    {
+      "entry_id": "entry.6003",
+      "question": "Email",
+      "type": "short_text",
+      "options": [],
+      "required": true
+    },
+    {
+      "entry_id": "entry.6004",
+      "question": "Location",
+      "type": "short_text",
+      "options": [],
+      "required": true
+    },
+    {
+      "entry_id": "entry.6005",
+      "question": "Preferred domain",
+      "type": "dropdown",
+      "options": [
+        "AI Engineer",
+        "Content Writer",
+        "Sales Executive",
+        "UI Designer"
+      ],
+      "required": true
+    },
+    {
+      "entry_id": "entry.6006",
+      "question": "Current salary",
+      "type": "short_text",
+      "options": [],
+      "required": false
+    },
+    {
+      "entry_id": "entry.6007",
+      "question": "Blood group",
+      "type": "dropdown",
+      "options": [
+        "A+",
+        "B+",
+        "O+",
+        "AB+"
+      ],
+      "required": false
+    },
+    {
+      "entry_id": "entry.6008",
+      "question": "Are you willing to relocate?",
+      "type": "multiple_choice",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "required": true
+    },
+    {
+      "entry_id": "entry.6009",
+      "question": "Skills",
+      "type": "checkboxes",
+      "options": [
+        "SQL",
+        "Git",
+        "Figma",
+        "Excel",
+        "Canva"
+      ],
+      "required": false
+    },
+    {
+      "entry_id": "entry.6010",
+      "question": "Why should we pick you?",
+      "type": "paragraph",
+      "options": [],
+      "required": true
+    }
+  ],
+  "expected": {
+    "entry.6001": "Arjun Reddy Kolla",
+    "entry.6002": "9000011111",
+    "entry.6003": "arjun.kolla@example.com",
+    "entry.6004": "Vijayawada, Andhra Pradesh",
+    "entry.6005": "AI Engineer",
+    "entry.6006": null,
+    "entry.6007": null,
+    "entry.6008": null,
+    "entry.6009": [
+      "SQL",
+      "Git"
+    ],
+    "entry.6010": "__ANY__"
+  }
+}

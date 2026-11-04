@@ -1,0 +1,13 @@
+models/
+data/real/
+venv/
+__pycache__/
+*.pt
+*.safetensors
+.env
+*API key*
+browser_profile/
+
+data/resumes_synth/
+data/ner/
+.pytest_cache/

@@ -1,0 +1,226 @@
+{
+ "variant": "B_frozen",
+ "C": 30,
+ "sets": {
+  "val": {
+   "n": 672,
+   "accuracy": 0.9255952380952381,
+   "macro_f1": 0.9382003490405441,
+   "classes_in_set": 17,
+   "per_class": {
+    "full_name": {
+     "precision": 0.8823529411764706,
+     "recall": 0.9375,
+     "f1": 0.9090909090909091,
+     "support": 32
+    },
+    "email": {
+     "precision": 1.0,
+     "recall": 1.0,
+     "f1": 1.0,
+     "support": 32
+    },
+    "phone": {
+     "precision": 0.9285714285714286,
+     "recall": 0.8125,
+     "f1": 0.8666666666666667,
+     "support": 32
+    },
+    "college": {
+     "precision": 0.8611111111111112,
+     "recall": 0.96875,
+     "f1": 0.9117647058823529,
+     "support": 32
+    },
+    "degree": {
+     "precision": 0.8611111111111112,
+     "recall": 0.96875,
+     "f1": 0.9117647058823529,
+     "support": 32
+    },
+    "branch": {
+     "precision": 0.8048780487804879,
+     "recall": 0.9166666666666666,
+     "f1": 0.8571428571428571,
+     "support": 36
+    },
+    "year_of_study": {
+     "precision": 0.9411764705882353,
+     "recall": 1.0,
+     "f1": 0.9696969696969697,
+     "support": 32
+    },
+    "graduation_year": {
+     "precision": 1.0,
+     "recall": 0.90625,
+     "f1": 0.9508196721311475,
+     "support": 32
+    },
+    "cgpa": {
+     "precision": 1.0,
+     "recall": 0.875,
+     "f1": 0.9333333333333333,
+     "support": 32
+    },
+    "city": {
+     "precision": 0.8648648648648649,
+     "recall": 1.0,
+     "f1": 0.927536231884058,
+     "support": 32
+    },
+    "state": {
+     "precision": 0.9696969696969697,
+     "recall": 1.0,
+     "f1": 0.9846153846153847,
+     "support": 32
+    },
+    "github": {
+     "precision": 1.0,
+     "recall": 1.0,
+     "f1": 1.0,
+     "support": 32
+    },
+    "linkedin": {
+     "precision": 1.0,
+     "recall": 1.0,
+     "f1": 1.0,
+     "support": 36
+    },
+    "skills": {
+     "precision": 1.0,
+     "recall": 1.0,
+     "f1": 1.0,
+     "support": 36
+    },
+    "target_role": {
+     "precision": 0.9473684210526315,
+     "recall": 1.0,
+     "f1": 0.972972972972973,
+     "support": 36
+    },
+    "open_text": {
+     "precision": 0.8809523809523809,
+     "recall": 0.925,
+     "f1": 0.9024390243902439,
+     "support": 40
+    },
+    "unsupported": {
+     "precision": 0.9083333333333333,
+     "recall": 0.8014705882352942,
+     "f1": 0.8515625,
+     "support": 136
+    }
+   }
+  },
+  "test_a": {
+   "n": 116,
+   "accuracy": 0.9051724137931034,
+   "macro_f1": 0.9496108058608058,
+   "classes_in_set": 16,
+   "per_class": {
+    "full_name": {
+     "precision": 1.0,
+     "recall": 1.0,
+     "f1": 1.0,
+     "support": 5
+    },
+    "email": {
+     "precision": 1.0,
+     "recall": 1.0,
+     "f1": 1.0,
+     "support": 4
+    },
+    "phone": {
+     "precision": 0.6666666666666666,
+     "recall": 1.0,
+     "f1": 0.8,
+     "support": 4
+    },
+    "college": {
+     "precision": 1.0,
+     "recall": 1.0,
+     "f1": 1.0,
+     "support": 4
+    },
+    "degree": {
+     "precision": 0.8571428571428571,
+     "recall": 1.0,
+     "f1": 0.9230769230769231,
+     "support": 6
+    },
+    "branch": {
+     "precision": 0.0,
+     "recall": 0.0,
+     "f1": 0.0,
+     "support": 0
+    },
+    "year_of_study": {
+     "precision": 1.0,
+     "recall": 1.0,
+     "f1": 1.0,
+     "support": 4
+    },
+    "graduation_year": {
+     "precision": 1.0,
+     "recall": 1.0,
+     "f1": 1.0,
+     "support": 5
+    },
+    "cgpa": {
+     "precision": 1.0,
+     "recall": 1.0,
+     "f1": 1.0,
+     "support": 3
+    },
+    "city": {
+     "precision": 0.75,
+     "recall": 1.0,
+     "f1": 0.8571428571428571,
+     "support": 3
+    },
+    "state": {
+     "precision": 1.0,
+     "recall": 1.0,
+     "f1": 1.0,
+     "support": 1
+    },
+    "github": {
+     "precision": 1.0,
+     "recall": 1.0,
+     "f1": 1.0,
+     "support": 3
+    },
+    "linkedin": {
+     "precision": 1.0,
+     "recall": 1.0,
+     "f1": 1.0,
+     "support": 2
+    },
+    "skills": {
+     "precision": 0.9,
+     "recall": 0.9,
+     "f1": 0.9,
+     "support": 10
+    },
+    "target_role": {
+     "precision": 0.875,
+     "recall": 1.0,
+     "f1": 0.9333333333333333,
+     "support": 7
+    },
+    "open_text": {
+     "precision": 0.8571428571428571,
+     "recall": 1.0,
+     "f1": 0.9230769230769231,
+     "support": 12
+    },
+    "unsupported": {
+     "precision": 0.9705882352941176,
+     "recall": 0.7674418604651163,
+     "f1": 0.8571428571428571,
+     "support": 43
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,101 @@
+{
+  "name": "form_13",
+  "questions": [
+    {
+      "entry_id": "entry.13001",
+      "question": "Candidate Name",
+      "type": "short_text",
+      "options": [],
+      "required": true
+    },
+    {
+      "entry_id": "entry.13002",
+      "question": "Contact No.",
+      "type": "short_text",
+      "options": [],
+      "required": true
+    },
+    {
+      "entry_id": "entry.13003",
+      "question": "College",
+      "type": "short_text",
+      "options": [],
+      "required": true
+    },
+    {
+      "entry_id": "entry.13004",
+      "question": "Degree",
+      "type": "short_text",
+      "options": [],
+      "required": true
+    },
+    {
+      "entry_id": "entry.13005",
+      "question": "Graduation year",
+      "type": "multiple_choice",
+      "options": [
+        "2025",
+        "2026",
+        "2027",
+        "2028"
+      ],
+      "required": true
+    },
+    {
+      "entry_id": "entry.13006",
+      "question": "CGPA",
+      "type": "short_text",
+      "options": [],
+      "required": true
+    },
+    {
+      "entry_id": "entry.13007",
+      "question": "Preferred work mode",
+      "type": "multiple_choice",
+      "options": [
+        "Remote",
+        "Onsite",
+        "Hybrid"
+      ],
+      "required": true
+    },
+    {
+      "entry_id": "entry.13008",
+      "question": "How did you hear about us?",
+      "type": "dropdown",
+      "options": [
+        "Friend",
+        "College placement cell",
+        "LinkedIn",
+        "Job portal"
+      ],
+      "required": false
+    },
+    {
+      "entry_id": "entry.13009",
+      "question": "PAN number",
+      "type": "short_text",
+      "options": [],
+      "required": false
+    },
+    {
+      "entry_id": "entry.13010",
+      "question": "Why do you want this job?",
+      "type": "paragraph",
+      "options": [],
+      "required": true
+    }
+  ],
+  "expected": {
+    "entry.13001": "Arjun Reddy Kolla",
+    "entry.13002": "9000011111",
+    "entry.13003": "Sri Venkateswara Institute of Technology",
+    "entry.13004": "B.Tech Computer Science and Engineering (AI/ML)",
+    "entry.13005": "2027",
+    "entry.13006": "8.4",
+    "entry.13007": null,
+    "entry.13008": null,
+    "entry.13009": null,
+    "entry.13010": "__ANY__"
+  }
+}

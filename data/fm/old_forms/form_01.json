@@ -1,0 +1,113 @@
+{
+  "name": "form_01",
+  "questions": [
+    {
+      "entry_id": "entry.1001",
+      "question": "Full Name",
+      "type": "short_text",
+      "options": [],
+      "required": true
+    },
+    {
+      "entry_id": "entry.1002",
+      "question": "Email",
+      "type": "short_text",
+      "options": [],
+      "required": true
+    },
+    {
+      "entry_id": "entry.1003",
+      "question": "Phone",
+      "type": "short_text",
+      "options": [],
+      "required": true
+    },
+    {
+      "entry_id": "entry.1004",
+      "question": "College",
+      "type": "short_text",
+      "options": [],
+      "required": true
+    },
+    {
+      "entry_id": "entry.1005",
+      "question": "Year of study",
+      "type": "multiple_choice",
+      "options": [
+        "1st Year",
+        "2nd Year",
+        "3rd Year",
+        "4th Year"
+      ],
+      "required": true
+    },
+    {
+      "entry_id": "entry.1006",
+      "question": "Skills you are comfortable with",
+      "type": "checkboxes",
+      "options": [
+        "Python",
+        "Java",
+        "Photoshop",
+        "Tally",
+        "C++"
+      ],
+      "required": false
+    },
+    {
+      "entry_id": "entry.1007",
+      "question": "Father's Name",
+      "type": "short_text",
+      "options": [],
+      "required": false
+    },
+    {
+      "entry_id": "entry.1008",
+      "question": "Preferred work mode",
+      "type": "dropdown",
+      "options": [
+        "Remote",
+        "Onsite",
+        "Hybrid"
+      ],
+      "required": true
+    },
+    {
+      "entry_id": "entry.1009",
+      "question": "Expected stipend per month",
+      "type": "short_text",
+      "options": [],
+      "required": false
+    },
+    {
+      "entry_id": "entry.1010",
+      "question": "Why do you want this internship?",
+      "type": "paragraph",
+      "options": [],
+      "required": true
+    },
+    {
+      "entry_id": "entry.1011",
+      "question": "GitHub profile link",
+      "type": "short_text",
+      "options": [],
+      "required": false
+    }
+  ],
+  "expected": {
+    "entry.1001": "Arjun Reddy Kolla",
+    "entry.1002": "arjun.kolla@example.com",
+    "entry.1003": "9000011111",
+    "entry.1004": "Sri Venkateswara Institute of Technology",
+    "entry.1005": "3rd Year",
+    "entry.1006": [
+      "Python",
+      "Java"
+    ],
+    "entry.1007": null,
+    "entry.1008": null,
+    "entry.1009": null,
+    "entry.1010": "__ANY__",
+    "entry.1011": "https://github.com/arjun-kolla-test"
+  }
+}

@@ -1,0 +1,14 @@
+torch
+transformers
+sentence-transformers
+scikit-learn
+seqeval
+pymupdf
+rapidfuzz
+pandas
+numpy
+matplotlib
+streamlit
+requests
+playwright
+pytest

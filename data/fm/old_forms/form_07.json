@@ -1,0 +1,101 @@
+{
+  "name": "form_07",
+  "questions": [
+    {
+      "entry_id": "entry.7001",
+      "question": "Candidate Name",
+      "type": "short_text",
+      "options": [],
+      "required": true
+    },
+    {
+      "entry_id": "entry.7002",
+      "question": "Email ID",
+      "type": "short_text",
+      "options": [],
+      "required": true
+    },
+    {
+      "entry_id": "entry.7003",
+      "question": "Mobile Number",
+      "type": "short_text",
+      "options": [],
+      "required": true
+    },
+    {
+      "entry_id": "entry.7004",
+      "question": "Qualification",
+      "type": "short_text",
+      "options": [],
+      "required": true
+    },
+    {
+      "entry_id": "entry.7005",
+      "question": "Total years of experience",
+      "type": "short_text",
+      "options": [],
+      "required": false
+    },
+    {
+      "entry_id": "entry.7006",
+      "question": "Portfolio website",
+      "type": "short_text",
+      "options": [],
+      "required": false
+    },
+    {
+      "entry_id": "entry.7007",
+      "question": "Preferred work mode",
+      "type": "multiple_choice",
+      "options": [
+        "Remote",
+        "Hybrid",
+        "Onsite"
+      ],
+      "required": true
+    },
+    {
+      "entry_id": "entry.7008",
+      "question": "Skills",
+      "type": "checkboxes",
+      "options": [
+        "Python",
+        "Machine Learning",
+        "Kotlin",
+        "SQL",
+        "Ruby"
+      ],
+      "required": false
+    },
+    {
+      "entry_id": "entry.7009",
+      "question": "GitHub URL",
+      "type": "short_text",
+      "options": [],
+      "required": false
+    },
+    {
+      "entry_id": "entry.7010",
+      "question": "Write a short cover letter.",
+      "type": "paragraph",
+      "options": [],
+      "required": true
+    }
+  ],
+  "expected": {
+    "entry.7001": "Arjun Reddy Kolla",
+    "entry.7002": "arjun.kolla@example.com",
+    "entry.7003": "9000011111",
+    "entry.7004": "B.Tech Computer Science and Engineering (AI/ML)",
+    "entry.7005": null,
+    "entry.7006": null,
+    "entry.7007": null,
+    "entry.7008": [
+      "Python",
+      "Machine Learning",
+      "SQL"
+    ],
+    "entry.7009": "https://github.com/arjun-kolla-test",
+    "entry.7010": "__ANY__"
+  }
+}

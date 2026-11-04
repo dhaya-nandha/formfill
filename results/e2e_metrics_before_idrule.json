@@ -1,0 +1,176 @@
+{
+ "n_resumes": 13,
+ "n_forms": 21,
+ "extracted": {
+  "questions": 2938,
+  "fillable": 1591,
+  "auto": 1578,
+  "correct_fills": 1572,
+  "wrong_fills": 6,
+  "wrong_fills_where_review_expected": 0,
+  "wrong_fills_bad_value_or_field": 6,
+  "review": 1360,
+  "precision": 0.9961977186311787,
+  "coverage_of_fillable": 0.9918290383406663,
+  "correct_coverage": 0.9880578252671276,
+  "review_rate": 0.4628999319264806,
+  "per_field": {
+   "full_name": {
+    "n": 273,
+    "auto": 273,
+    "correct": 273
+   },
+   "phone": {
+    "n": 221,
+    "auto": 221,
+    "correct": 221
+   },
+   "college": {
+    "n": 208,
+    "auto": 208,
+    "correct": 208
+   },
+   "cgpa": {
+    "n": 120,
+    "auto": 120,
+    "correct": 120
+   },
+   "skills": {
+    "n": 169,
+    "auto": 166,
+    "correct": 160
+   },
+   "email": {
+    "n": 234,
+    "auto": 234,
+    "correct": 234
+   },
+   "github": {
+    "n": 72,
+    "auto": 72,
+    "correct": 72
+   },
+   "degree": {
+    "n": 130,
+    "auto": 130,
+    "correct": 130
+   },
+   "linkedin": {
+    "n": 55,
+    "auto": 55,
+    "correct": 55
+   },
+   "graduation_year": {
+    "n": 63,
+    "auto": 56,
+    "correct": 56
+   },
+   "city": {
+    "n": 21,
+    "auto": 21,
+    "correct": 21
+   },
+   "state": {
+    "n": 11,
+    "auto": 8,
+    "correct": 8
+   },
+   "year_of_study": {
+    "n": 14,
+    "auto": 14,
+    "correct": 14
+   }
+  },
+  "skipped_unlabelled_questions": 65,
+  "precision_95ci": [
+   0.9895765472312703,
+   1.0
+  ],
+  "coverage_95ci": [
+   0.9821098087600246,
+   0.9981214777708203
+  ]
+ },
+ "gold_profile": {
+  "questions": 2938,
+  "fillable": 1591,
+  "auto": 1588,
+  "correct_fills": 1588,
+  "wrong_fills": 0,
+  "wrong_fills_where_review_expected": 0,
+  "wrong_fills_bad_value_or_field": 0,
+  "review": 1350,
+  "precision": 1.0,
+  "coverage_of_fillable": 0.9981143934632307,
+  "correct_coverage": 0.9981143934632307,
+  "review_rate": 0.45949625595643295,
+  "per_field": {
+   "full_name": {
+    "n": 273,
+    "auto": 273,
+    "correct": 273
+   },
+   "phone": {
+    "n": 221,
+    "auto": 221,
+    "correct": 221
+   },
+   "college": {
+    "n": 208,
+    "auto": 208,
+    "correct": 208
+   },
+   "cgpa": {
+    "n": 120,
+    "auto": 120,
+    "correct": 120
+   },
+   "skills": {
+    "n": 169,
+    "auto": 166,
+    "correct": 166
+   },
+   "email": {
+    "n": 234,
+    "auto": 234,
+    "correct": 234
+   },
+   "github": {
+    "n": 72,
+    "auto": 72,
+    "correct": 72
+   },
+   "degree": {
+    "n": 130,
+    "auto": 130,
+    "correct": 130
+   },
+   "linkedin": {
+    "n": 55,
+    "auto": 55,
+    "correct": 55
+   },
+   "graduation_year": {
+    "n": 63,
+    "auto": 63,
+    "correct": 63
+   },
+   "city": {
+    "n": 21,
+    "auto": 21,
+    "correct": 21
+   },
+   "state": {
+    "n": 11,
+    "auto": 11,
+    "correct": 11
+   },
+   "year_of_study": {
+    "n": 14,
+    "auto": 14,
+    "correct": 14
+   }
+  },
+  "skipped_unlabelled_questions": 65
+ }
+}

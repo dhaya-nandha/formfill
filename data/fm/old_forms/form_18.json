@@ -1,0 +1,118 @@
+{
+  "name": "form_18",
+  "questions": [
+    {
+      "entry_id": "entry.18001",
+      "question": "Name of the applicant",
+      "type": "short_text",
+      "options": [],
+      "required": true
+    },
+    {
+      "entry_id": "entry.18002",
+      "question": "Email",
+      "type": "short_text",
+      "options": [],
+      "required": true
+    },
+    {
+      "entry_id": "entry.18003",
+      "question": "Contact No.",
+      "type": "short_text",
+      "options": [],
+      "required": true
+    },
+    {
+      "entry_id": "entry.18004",
+      "question": "Institute",
+      "type": "short_text",
+      "options": [],
+      "required": true
+    },
+    {
+      "entry_id": "entry.18005",
+      "question": "Which year are you in?",
+      "type": "multiple_choice",
+      "options": [
+        "1st Year",
+        "2nd Year",
+        "3rd Year",
+        "4th Year"
+      ],
+      "required": true
+    },
+    {
+      "entry_id": "entry.18006",
+      "question": "Aggregate CGPA",
+      "type": "short_text",
+      "options": [],
+      "required": true
+    },
+    {
+      "entry_id": "entry.18007",
+      "question": "Role",
+      "type": "multiple_choice",
+      "options": [
+        "AI Engineer",
+        "Data Entry Operator",
+        "Network Engineer"
+      ],
+      "required": true
+    },
+    {
+      "entry_id": "entry.18008",
+      "question": "Skills",
+      "type": "checkboxes",
+      "options": [
+        "Python",
+        "Machine Learning",
+        "Hadoop",
+        "SQL",
+        "Tally"
+      ],
+      "required": false
+    },
+    {
+      "entry_id": "entry.18009",
+      "question": "10th percentage",
+      "type": "short_text",
+      "options": [],
+      "required": false
+    },
+    {
+      "entry_id": "entry.18010",
+      "question": "Gender",
+      "type": "dropdown",
+      "options": [
+        "Male",
+        "Female",
+        "Prefer not to say"
+      ],
+      "required": false
+    },
+    {
+      "entry_id": "entry.18011",
+      "question": "Father's Name",
+      "type": "short_text",
+      "options": [],
+      "required": false
+    }
+  ],
+  "expected": {
+    "entry.18001": "Arjun Reddy Kolla",
+    "entry.18002": "arjun.kolla@example.com",
+    "entry.18003": "9000011111",
+    "entry.18004": "Sri Venkateswara Institute of Technology",
+    "entry.18005": "3rd Year",
+    "entry.18006": "8.4",
+    "entry.18007": "AI Engineer",
+    "entry.18008": [
+      "Python",
+      "Machine Learning",
+      "SQL"
+    ],
+    "entry.18009": null,
+    "entry.18010": null,
+    "entry.18011": null
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "classes": [
+    {"id": 0, "name": "full_name", "kind": "profile", "meaning": "Candidate's full name", "examples": ["Full Name", "Candidate Name", "Name of applicant"], "source": "NER NAME, fallback top line of resume"},
+    {"id": 1, "name": "email", "kind": "profile", "meaning": "Email address", "examples": ["Email", "Email ID", "Mail address"], "source": "regex"},
+    {"id": 2, "name": "phone", "kind": "profile", "meaning": "10-digit Indian mobile number", "examples": ["Phone", "Mobile No.", "Contact number"], "source": "regex"},
+    {"id": 3, "name": "college", "kind": "profile", "meaning": "Degree-granting college or university", "examples": ["College", "Institute", "University name"], "source": "NER COLLEGE"},
+    {"id": 4, "name": "degree", "kind": "profile", "meaning": "Degree being pursued", "examples": ["Degree", "Qualification", "Course pursuing"], "source": "NER DEGREE, normalized"},
+    {"id": 5, "name": "branch", "kind": "profile", "meaning": "Branch, stream or specialization", "examples": ["Branch", "Stream", "Department", "Specialization"], "source": "NER BRANCH or alias table"},
+    {"id": 6, "name": "year_of_study", "kind": "profile", "meaning": "Current year of study (1st, 2nd, 3rd, 4th)", "examples": ["Current year", "Which year are you in?"], "source": "user selects in profile editor, never calculated"},
+    {"id": 7, "name": "graduation_year", "kind": "profile", "meaning": "Year of passing out", "examples": ["Passing out year", "Batch", "Expected graduation"], "source": "rule on education date range"},
+    {"id": 8, "name": "cgpa", "kind": "profile", "meaning": "CGPA or GPA out of 10 (percentage is NOT cgpa)", "examples": ["CGPA", "Aggregate", "GPA (out of 10)"], "source": "regex"},
+    {"id": 9, "name": "city", "kind": "profile", "meaning": "Current city", "examples": ["Current city", "City you live in", "Location"], "source": "NER LOCATION, split"},
+    {"id": 10, "name": "state", "kind": "profile", "meaning": "State", "examples": ["State", "State of residence"], "source": "LOCATION split plus states lookup"},
+    {"id": 11, "name": "github", "kind": "profile", "meaning": "GitHub profile URL", "examples": ["GitHub URL", "GitHub profile"], "source": "regex"},
+    {"id": 12, "name": "linkedin", "kind": "profile", "meaning": "LinkedIn profile URL", "examples": ["LinkedIn URL", "LinkedIn profile"], "source": "regex"},
+    {"id": 13, "name": "skills", "kind": "profile", "meaning": "Technical skills (list)", "examples": ["Technical skills", "Skills known"], "source": "NER SKILL plus skills-section parse"},
+    {"id": 14, "name": "target_role", "kind": "profile", "meaning": "Role or domain applied for", "examples": ["Role applied for", "Position", "Preferred domain"], "source": "user input in profile editor"},
+    {"id": 15, "name": "open_text", "kind": "non_fill", "meaning": "Free-writing question, never auto-filled", "examples": ["Why do you want this role?", "Tell us about yourself", "Describe a project"], "source": "user writes it"},
+    {"id": 16, "name": "unsupported", "kind": "non_fill", "meaning": "Anything not in the 15 profile fields, never auto-filled", "examples": ["Date of birth", "Gender", "Father's name", "Address", "Pincode", "Aadhaar", "PAN", "Stipend", "Notice period", "Availability", "Relocation", "Work mode", "Referral", "Resume link", "10th marks", "12th marks", "Languages known", "Nationality"], "source": "not in profile"}
+  ],
+  "decision_rules": [
+    "Location or City -> city; State -> state; Address or Pincode -> unsupported.",
+    "Year of passing / Batch / Graduation year -> graduation_year; Current year / Year of study / Which year are you in -> year_of_study.",
+    "Percentage or Marks -> unsupported (only CGPA is supported).",
+    "Course / Degree / Qualification -> degree; Branch / Stream / Department -> branch.",
+    "Resume link / Upload resume / Portfolio -> unsupported.",
+    "Questions about willingness, availability, preferences, or personal details not in the schema -> unsupported.",
+    "Any free-writing question -> open_text."
+  ],
+  "question_types": ["short_text", "paragraph", "multiple_choice", "dropdown", "checkboxes"],
+  "ner_entity_types": ["NAME", "COLLEGE", "DEGREE", "BRANCH", "LOCATION", "SKILL"],
+  "ner_tags": ["O", "B-NAME", "I-NAME", "B-COLLEGE", "I-COLLEGE", "B-DEGREE", "I-DEGREE", "B-BRANCH", "I-BRANCH", "B-LOCATION", "I-LOCATION", "B-SKILL", "I-SKILL"],
+  "ner_rules": [
+    "Only the candidate's own degree-granting college is COLLEGE.",
+    "School names (10th/12th), company names, project names and internship locations are O.",
+    "Only the candidate's own location (header or address) is LOCATION."
+  ],
+  "indian_states": [
+    "Andhra Pradesh", "Arunachal Pradesh", "Assam", "Bihar", "Chhattisgarh", "Goa", "Gujarat", "Haryana",
+    "Himachal Pradesh", "Jharkhand", "Karnataka", "Kerala", "Madhya Pradesh", "Maharashtra", "Manipur",
+    "Meghalaya", "Mizoram", "Nagaland", "Odisha", "Punjab", "Rajasthan", "Sikkim", "Tamil Nadu", "Telangana",
+    "Tripura", "Uttar Pradesh", "Uttarakhand", "West Bengal",
+    "Andaman and Nicobar Islands", "Chandigarh", "Dadra and Nagar Haveli and Daman and Diu", "Delhi",
+    "Jammu and Kashmir", "Ladakh", "Lakshadweep", "Puducherry"
+  ],
+  "branch_aliases": {
+    "CSE": ["cse", "cs", "computer science", "computer science and engineering", "computer science & engineering", "computer science engineering"],
+    "ECE": ["ece", "electronics and communication", "electronics and communication engineering", "electronics & communication", "electronics & communication engineering"],
+    "EEE": ["eee", "electrical and electronics", "electrical and electronics engineering", "electrical & electronics engineering"],
+    "MECH": ["mech", "mechanical", "mechanical engineering"],
+    "CIVIL": ["civil", "civil engineering"],
+    "IT": ["it", "information technology"],
+    "AIML": ["aiml", "ai/ml", "ai & ml", "ai and ml", "artificial intelligence and machine learning", "computer science (ai & ml)", "cse (aiml)", "cse aiml"],
+    "AIDS": ["aids", "ai&ds", "ai & ds", "ai and ds", "artificial intelligence and data science", "cse (ai & ds)"]
+  },
+  "degree_aliases": {
+    "B.Tech": ["b.tech", "btech", "b tech", "bachelor of technology"],
+    "B.E.": ["b.e.", "b.e", "be", "bachelor of engineering"],
+    "BCA": ["bca", "bachelor of computer applications"],
+    "B.Sc": ["b.sc", "bsc", "bachelor of science"],
+    "M.Tech": ["m.tech", "mtech", "m tech", "master of technology"],
+    "MCA": ["mca", "master of computer applications"],
+    "M.Sc": ["m.sc", "msc", "master of science"],
+    "MBA": ["mba", "master of business administration"]
+  }
+}
