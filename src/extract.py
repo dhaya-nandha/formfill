@@ -12,7 +12,7 @@ from src.schema import INDIAN_STATES, NER_ID2TAG, PROFILE_FIELDS
 from src.vocab_people_places import CITIES
 
 ROOT = Path(__file__).resolve().parent.parent
-MODEL_DIR = ROOT / "models" / "ner"
+MODEL_DIR = "NandDerek/streamlit-ner-model"
 MAXLEN, MAXW = 320, 100
 _state = {}
 _DEG_SEP = re.compile(

@@ -1,6 +1,7 @@
 import argparse
 import json
 from pathlib import Path
+from huggingface_hub import hf_hub_download
 
 import torch
 from transformers import AutoModelForSequenceClassification, AutoTokenizer
@@ -9,7 +10,7 @@ from src.option_matcher import match_checkboxes, match_option, parse_year
 from src.schema import CLASS_NAMES, QUESTION_TYPES
 
 ROOT = Path(__file__).resolve().parent.parent
-FM_DIR = ROOT / "models" / "field_matcher"
+FM_DIR = "NandDerek/streamlit-field-matcher"
 NER_CFG = ROOT / "data" / "ner_config.json"
 CHOICE = {"multiple_choice", "dropdown", "checkboxes"}
 _fm = {}
@@ -40,9 +41,23 @@ def load_fm():
     if not _fm:
         tok = AutoTokenizer.from_pretrained(FM_DIR)
         model = AutoModelForSequenceClassification.from_pretrained(FM_DIR)
+
         dev = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-        cfg = json.load(open(FM_DIR / "fm_config.json"))
-        _fm.update(tok=tok, model=model.to(dev).eval(), dev=dev, tau=float(cfg["tau_fm"]))
+
+        config_path = hf_hub_download(
+            repo_id=FM_DIR,
+            filename="fm_config.json"
+        )
+
+        cfg = json.load(open(config_path))
+
+        _fm.update(
+            tok=tok,
+            model=model.to(dev).eval(),
+            dev=dev,
+            tau=float(cfg["tau_fm"])
+        )
+
     return _fm
 
 

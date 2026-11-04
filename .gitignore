@@ -11,3 +11,5 @@ browser_profile/
 data/resumes_synth/
 data/ner/
 .pytest_cache/
+
+models.zip
